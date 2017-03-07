@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+#Mi primera página
 
-You can use the [editor on GitHub](https://github.com/fgarciajulia/Web-Bootstrap-Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+##¿De qué trata el tutorial?
+ Vamos a desarrollar desde cero una web estática del tipo landingPage (hecha en una sola pestaña larga) con la temática de portfolio, utilizando el framework de Css3 Bootstrap para estructurar y hacer responsive el contenido. 
+Después de seguir el paso a paso nos debería quedar algo así:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fgarciajulia/Web-Bootstrap-Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Conocimientos previos
+En este tutorial se asume que ya se tiene conocimiento básicos sobre:
+-Html
+- Css
+- Javascrip
+### Contenidos
+1.	[Entorno de trabajo](./docs/entorno-trabajo.md)
