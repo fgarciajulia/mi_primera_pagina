@@ -11,4 +11,5 @@ En este tutorial se asume que ya se tiene conocimiento básicos sobre:
 - Javascrip
 
 ### Contenidos
-1.	[Entorno de trabajo](./doc/entorno-trabajo.md)
+1.	[Entorno de trabajo](./docs/entorno-trabajo.md)
+1.	[estructura de archivos](./docs/estructura-archivos.md)
