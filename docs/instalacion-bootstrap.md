@@ -10,7 +10,7 @@ Adentro del comprimido vamos a encontrarnos con 3 carpetas iguales a las que cre
 
 Volvemos al visual code y nos debería quedar así:
 
-![Imagen](https://fgarciajulia.github.io/mi_primera_pagina/img/estructura2.jpg)
+![Imagen](https://fgarciajulia.github.io/mi_primera_pagina/docs/img/estructura2.jpg)
 
 Véase que borré unos cuantos archivos que no vamos a usar. Y también borre la última línea del archivo bootstrap.min.css que dice:
 

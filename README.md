@@ -15,9 +15,9 @@ En este tutorial se asume que ya se tiene conocimiento básicos sobre:
 - Javascrip
 
 ### Contenidos
-1.	[Entorno de trabajo](./entorno-trabajo.md)
-1.	[Estructura de archivos](./estructura-archivos.md)
-1.	[instalación de bootstrap](./instalacion-bootstrap.md)
+1.	[Entorno de trabajo](./docs/entorno-trabajo.md)
+1.	[Estructura de archivos](./docs/estructura-archivos.md)
+1.	[instalación de bootstrap](./docs/instalacion-bootstrap.md)
 
 ### Referencias
 
