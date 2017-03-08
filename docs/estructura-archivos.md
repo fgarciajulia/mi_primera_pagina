@@ -1,6 +1,6 @@
-#Estructura de archivos
+# Estructura de archivos
 
-Para comenzar vamos a crear una estructura de 3 archivos y 3 carpeta:
+Para comenzar vamos a crear una estructura de 3 archivos y 4 carpeta:
 
 ```
 mi_primera_pagina/
@@ -27,4 +27,6 @@ Una vez creados estos archivos vamos a visual code (o tu editor de texto) y abri
 Y nos debería quedar algo así:
 
 ![Imagen](https://fgarciajulia.github.io/mi_primera_pagina/img/estructura.jpg)
+
+
 [Home](https://fgarciajulia.github.io/mi_primera_pagina/)
