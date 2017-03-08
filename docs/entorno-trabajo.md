@@ -4,7 +4,7 @@
 En primer lugar vamos a necesitar un editor de texto, pueden utilizar el programa con el que ya estén acostumbrados.
 Yo utilizo el visual code, acá les dejo la url para instalarlo. (NO confundir con el visual estudio, este es **azul**)
 
-https://code.visualstudio.com/
+[https://code.visualstudio.com/](https://code.visualstudio.com/)
 
 Para este proyecto recomiendo instalar las extensiones que figuran en la imagen, que nos van a facilitar mucho el trabajo. Para instalarlas solo vamos al icono de las extensiones, las buscamos, las instalamos y reiniciamos el programa.
 

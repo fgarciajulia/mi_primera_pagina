@@ -75,13 +75,13 @@ Para entender qué diferencia hay entre un archivo min ( minificado ) y uno no m
 Por otro lado tampoco me gusta trabajar con el **jquery** de forma online, porque cuando se me corta internet no puedo seguir trabajando, para cambiar esto:
 - Entramos a https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js
 - Hacemos botón derecho -> **guardar como** y lo guardamos en la carpeta js de nuestro proyecto.
-- Una vez que está en nuestro proyecto reemplazamos la siguiente línea
+- Una vez que está en nuestro proyecto reemplazamos la siguiente línea.
 
 ```
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 ```
 
-    Por esta otra:
+Por esta otra:
 
 ```
     <script src="js/jquery.min.js"></script>

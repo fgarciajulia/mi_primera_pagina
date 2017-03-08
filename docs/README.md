@@ -16,8 +16,8 @@ En este tutorial se asume que ya se tiene conocimiento básicos sobre:
 
 ### Contenidos
 1.	[Entorno de trabajo](./entorno-trabajo.md)
-1.	[Estructura de archivos](./estructura-archivos.md)
-1.	[instalación de bootstrap](./instalacion-bootstrap.md)
+2.	[Estructura de archivos](./estructura-archivos.md)
+3.	[instalación de bootstrap](./instalacion-bootstrap.md)
 
 ### Referencias
 
