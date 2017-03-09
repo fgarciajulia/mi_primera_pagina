@@ -5,10 +5,11 @@ Bootstrap nos va a permitir crear barras de navegación muy fácilmente por medi
 
 ## Un ejemplo simple
 
-[Veamos el siguiente ejemplo](http://codepen.io/fgarciajulia/pen/aJpaPb)
+Entremos nuevamente a codepen para ver el siguiente ejemplo:
 
-Analicemos un poco el ejemplo:
+[Codepen](http://codepen.io/fgarciajulia/pen/aJpaPb)
 
+### Analicemos un poco lo que dice:
 
 ![Imagen](https://fgarciajulia.github.io/mi_primera_pagina/img/navegador-bootstrap.jpg)
 
