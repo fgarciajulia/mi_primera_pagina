@@ -1,7 +1,7 @@
 # Acerca de Bootstrap
 
 Bootstrap es un framework (librerías de CSS) que nos facilita y estandariza el desarrollo de sitios web.<br />
-Esta pensado para que se adapte tanto a las pantallas de equipos de escritorio como a móviles y tablets.<br />
+Está pensado para que se adapte tanto a las pantallas de equipos de escritorio como a móviles y tablets.<br />
 Bootstrap ha sido desarrollada y es mantenida por la empresa Twitter y la ha liberado como un producto Open Source.<br />
 Tiene una filosofía muy intuitiva para el maquetado de sitios web que puede ser rápidamente aprendida por desarrolladores que no vienen del mundo del diseño web.<br />
 La primera clase que podemos probar es class="container" (esta muestra todo el contenido del div centrado).<br />
@@ -25,10 +25,10 @@ La más genérica es que permite simplificar el proceso de maquetación, sirvié
 Lo más importante de entender en un principio es el sistema de grillas que plantea la librería Bootstrap.<br />
 Debemos pensar para armar nuestro esquema de la página que tenemos la posibilidad de definir filas y en cada fila definir de 1 hasta 12 columnas. Cada columna con un ancho relativo a ese número 12.<br />
 Luego Bootstrap se encarga de colapsar las columnas cuando se accede al sitio desde un dispositivo con una capacidad limitada en cuanto al ancho en píxeles (esto permite una experiencia más placentera al visitante que accede a nuestra página desde un celular con capacidades limitadas)<br />
-Para ver y entender como creamos las columnas en cada fila y como colapsan según el ancho del dispositivo podemos analizar el siguiente código:
+Para ver y entender como creamos las columnas en cada fila y como colapsan según el ancho del dispositivo podemos analizar el siguiente caso:
 
 
-[link](https://codepen.io/fgarciajulia/pen/OpWgNK)
+[Ejemplo con codepen](https://codepen.io/fgarciajulia/pen/OpWgNK)
 
 
 Si abrimos esta página en un monitor con un ancho superior a 1200 px podemos ver que se muestran tres columnas por fila:
@@ -106,3 +106,5 @@ Es bueno analizar de que palabras vienen los nombres de reglas de estilo que pro
   col-**lg**-*  -- -- -- -- (**l**)ar(**g**)e<br />
 
 Ahora depende del tipo de página que uno tiene que implementar el definir en que momento queremos que nuestra estructura de página colapse sus columnas. Si no queremos que colapse luego empleamos col-xs-* para definir las distintas columnas. 
+
+[Home](https://fgarciajulia.github.io/mi_primera_pagina/)
