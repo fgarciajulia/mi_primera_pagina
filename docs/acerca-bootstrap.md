@@ -1,10 +1,10 @@
 # Acerca de Bootstrap
 
-Bootstrap es un framework (librerías de CSS) que nos facilita y estandariza el desarrollo de sitios web.
-Esta pensado para que se adapte tanto a las pantallas de equipos de escritorio como a móviles y tablets.
-Bootstrap ha sido desarrollada y es mantenida por la empresa Twitter y la ha liberado como un producto Open Source.
-Tiene una filosofía muy intuitiva para el maquetado de sitios web que puede ser rápidamente aprendida por desarrolladores que no vienen del mundo del diseño web.
-La primera clase que podemos probar es class="container" (esta muestra todo el contenido del div centrado).
+Bootstrap es un framework (librerías de CSS) que nos facilita y estandariza el desarrollo de sitios web.<br />
+Esta pensado para que se adapte tanto a las pantallas de equipos de escritorio como a móviles y tablets.<br />
+Bootstrap ha sido desarrollada y es mantenida por la empresa Twitter y la ha liberado como un producto Open Source.<br />
+Tiene una filosofía muy intuitiva para el maquetado de sitios web que puede ser rápidamente aprendida por desarrolladores que no vienen del mundo del diseño web.<br />
+La primera clase que podemos probar es class="container" (esta muestra todo el contenido del div centrado).<br />
 
 ## Ventajas de usar Bootstrap
 
@@ -22,9 +22,9 @@ La más genérica es que permite simplificar el proceso de maquetación, sirvié
 
 ## Grilla
 
-Lo más importante de entender en un principio es el sistema de grillas que plantea la librería Bootstrap.
-Debemos pensar para armar nuestro esquema de la página que tenemos la posibilidad de definir filas y en cada fila definir de 1 hasta 12 columnas. Cada columna con un ancho relativo a ese número 12.
-Luego Bootstrap se encarga de colapsar las columnas cuando se accede al sitio desde un dispositivo con una capacidad limitada en cuanto al ancho en píxeles (esto permite una experiencia más placentera al visitante que accede a nuestra página desde un celular con capacidades limitadas)
+Lo más importante de entender en un principio es el sistema de grillas que plantea la librería Bootstrap.<br />
+Debemos pensar para armar nuestro esquema de la página que tenemos la posibilidad de definir filas y en cada fila definir de 1 hasta 12 columnas. Cada columna con un ancho relativo a ese número 12.<br />
+Luego Bootstrap se encarga de colapsar las columnas cuando se accede al sitio desde un dispositivo con una capacidad limitada en cuanto al ancho en píxeles (esto permite una experiencia más placentera al visitante que accede a nuestra página desde un celular con capacidades limitadas)<br />
 Para ver y entender como creamos las columnas en cada fila y como colapsan según el ancho del dispositivo podemos analizar el siguiente código:
 
 
@@ -45,7 +45,7 @@ Debemos utilizar la clase "row" para indicar el comienzo de una fila. Dentro de 
 
 Donde aparece el asterisco lo remplazamos por un valor entre 1 y 12 (en nuestro ejemplo hemos dispuesto un 4, esto quiere decir que quedan 8 unidades de columna para repartir entre las otras columnas)
 
-En nuestro ejemplo cada una de las columnas tiene un valor 4 (siempre la suma de dichos valores de una fila debe sumar 12 o quedarán columnas vacías en dicho caso)
+En nuestro ejemplo cada una de las columnas tiene un valor 4 (siempre la suma de dichos valores de una fila debe sumar 12 o quedarán columnas vacías en dicho caso)<br />
 Como asignamos cuatro a cada columna las tres columnas tienen el mismo ancho:
 
 ```
@@ -97,12 +97,12 @@ Lo mismo sucederá cuando utilicemos "col-**sm**-*" y reduzcamos los 768px:
 
 ![Imagen](https://fgarciajulia.github.io/mi_primera_pagina/img/boostrap4.jpg)
 
-Por último hay que decir que cuando utilizamos las clases "col-**xs**-*" **nunca** colapsarán las columnas.
+Por último hay que decir que cuando utilizamos las clases "col-**xs**-*" **nunca** colapsarán las columnas.<br />
 Es bueno analizar de que palabras vienen los nombres de reglas de estilo que provee Bootstrap:
 
-  col-**xs**-*               e(**x**)tra (**s**)mall
-  col-**sm**-*               (**sm**)all
-  col-**md**-*               (**m**)e(**d**)ium
-  col-**lg**-*               (**l**)ar(**g**)e
+  col-**xs**-*  -- -- -- -- e(**x**)tra (**s**)mall <br />
+  col-**sm**-*  -- -- -- -- (**sm**)all<br />
+  col-**md**-*  -- -- -- -- (**m**)e(**d**)ium<br />
+  col-**lg**-*  -- -- -- -- (**l**)ar(**g**)e<br />
 
 Ahora depende del tipo de página que uno tiene que implementar el definir en que momento queremos que nuestra estructura de página colapse sus columnas. Si no queremos que colapse luego empleamos col-xs-* para definir las distintas columnas. 

@@ -22,5 +22,5 @@ En este tutorial se asume que ya se tiene conocimiento básicos sobre:
 
 ### Referencias
 
-Bootstrap: http://getbootstrap.com/getting-started/
-Owl Carousel 2: https://owlcarousel2.github.io/OwlCarousel2/started-welcome.html
+- Bootstrap: [http://getbootstrap.com/getting-started/](http://getbootstrap.com/getting-started/) <br />
+- Owl Carousel 2: [https://owlcarousel2.github.io/OwlCarousel2/docs/started-welcome.html](https://owlcarousel2.github.io/OwlCarousel2/docs/started-welcome.html) <br />

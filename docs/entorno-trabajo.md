@@ -1,7 +1,7 @@
 # Preparamos nuestro entorno de trabajo.
 
 ## Editor de texto.
-En primer lugar vamos a necesitar un editor de texto, pueden utilizar el programa con el que ya estén acostumbrados.
+En primer lugar vamos a necesitar un editor de texto, pueden utilizar el programa con el que ya estén acostumbrados.<br />
 Yo utilizo el visual code, acá les dejo la url para instalarlo. (NO confundir con el visual estudio, este es **azul**)
 
 [https://code.visualstudio.com/](https://code.visualstudio.com/)

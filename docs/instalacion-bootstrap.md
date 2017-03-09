@@ -69,7 +69,7 @@ Esta es la estructura básica del archivo html, no entraremos muy en detalle al 
 
 ## Algunos ajustes
 
-Yo prefiero trabajar (en tiempo de desarrollo) con el archivo bootstrap.css y no con el bootstrap.**min**.css , de manera que voy a mandar a llamar al otro archivo simplemente sacando el **min**.
+Yo prefiero trabajar (en tiempo de desarrollo) con el archivo bootstrap.css y no con el bootstrap.**min**.css , de manera que voy a mandar a llamar al otro archivo simplemente sacando el **min**.<br />
 Para entender qué diferencia hay entre un archivo min ( minificado ) y uno no minificado pueden visitar esta página [https://lenguajecss.com/p/css/introduccion/minificar-css](Minificar CSS)
 
 Por otro lado tampoco me gusta trabajar con el **jquery** de forma online, porque cuando se me corta internet no puedo seguir trabajando, para cambiar esto:
@@ -99,9 +99,9 @@ Y como último cambio vamos a importar nuestro main.js **justo por debajo** de l
     <script src="js/main.js"></script>
 ```
 
-Para cuando terminen esto podrán abrir el archivo index.html con el chrome y les aparecerá un **Hello, world!**.
-Luego hacemos botón derecho en la web y ponemos **inspeccionar elemento** o apretaremos F12.
-Si en la parte de abajo de la consola no figura ningún error en rojo, entonces hemos terminado la instalación de boostrap con éxito!
+Para cuando terminen esto podrán abrir el archivo index.html con el chrome y les aparecerá un **Hello, world!**.<br />
+Luego hacemos botón derecho en la web y ponemos **inspeccionar elemento** o apretaremos F12.<br />
+Si en la parte de abajo de la consola no figura ningún error en rojo, entonces hemos terminado la instalación de boostrap con éxito!<br />
 Si nos figura un error será cuestión de leerlo, los más frecuentes son que no encuentra un archivo de los que hemos vinculado, esto puede ser porque escribimos mal una ruta o porque el archivo no está donde debería.
 
 [Home](https://fgarciajulia.github.io/mi_primera_pagina/)
