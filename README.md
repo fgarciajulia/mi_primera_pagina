@@ -18,10 +18,12 @@ En este tutorial se asume que ya se tiene conocimiento básicos sobre:
 1.	[Entorno de trabajo](./docs/entorno-trabajo.md)
 2.	[Estructura de archivos](./docs/estructura-archivos.md)
 3.	[Instalación de bootstrap](./docs/instalacion-bootstrap.md)
-3.	[Acerca de bootstrap y sus grillas](./docs/acerca-bootstrap.md)
-3.	[Como crear un menú en bootstrap](./docs/menu-bootstrap.md)
+    1.	[Acerca de bootstrap y sus grillas](./docs/acerca-bootstrap.md)
+    2.	[Como crear un menú en bootstrap](./docs/menu-bootstrap.md)
+4.	[Creamos nuestro menú](./docs/creacion-nav.md)
 
 ### Referencias
 
 - Bootstrap: [http://getbootstrap.com/getting-started/](http://getbootstrap.com/getting-started/) <br />
+
 - Owl Carousel 2: [https://owlcarousel2.github.io/OwlCarousel2/docs/started-welcome.html](https://owlcarousel2.github.io/OwlCarousel2/docs/started-welcome.html) <br />
