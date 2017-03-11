@@ -21,6 +21,7 @@ En este tutorial se asume que ya se tiene conocimiento básicos sobre:
     1.	[Acerca de bootstrap y sus grillas](./docs/acerca-bootstrap.md)
     2.	[Como crear un menú en bootstrap](./docs/menu-bootstrap.md)
 4.	[Creamos nuestro menú](./docs/creacion-nav.md)
+4.	[Colocamos estilo al menú](./docs/estilo-nav.md)
 
 ### Referencias
 

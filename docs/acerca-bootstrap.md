@@ -107,4 +107,9 @@ Es bueno analizar de que palabras vienen los nombres de reglas de estilo que pro
 
 Ahora depende del tipo de página que uno tiene que implementar el definir en que momento queremos que nuestra estructura de página colapse sus columnas. Si no queremos que colapse luego empleamos col-xs-* para definir las distintas columnas. 
 
-[Home](https://fgarciajulia.github.io/mi_primera_pagina/)
+
+<div class="Grid">
+    <a href="https://fgarciajulia.github.io/mi_primera_pagina/instalacion-bootstrap" class="my-btn anterior">Anterior</a>
+    <a href="https://fgarciajulia.github.io/mi_primera_pagina" class="my-btn home">Home</a>
+    <a href="https://fgarciajulia.github.io/mi_primera_pagina/menu-bootstrap" class="my-btn siguiente">Siguiente</a>
+</div>

@@ -104,4 +104,11 @@ Luego hacemos botón derecho en la web y ponemos **inspeccionar elemento** o apr
 Si en la parte de abajo de la consola no figura ningún error en rojo, entonces hemos terminado la instalación de boostrap con éxito!<br />
 Si nos figura un error será cuestión de leerlo, los más frecuentes son que no encuentra un archivo de los que hemos vinculado, esto puede ser porque escribimos mal una ruta o porque el archivo no está donde debería.
 
-[Home](https://fgarciajulia.github.io/mi_primera_pagina/)
+
+
+
+<div class="Grid">
+    <a href="https://fgarciajulia.github.io/mi_primera_pagina/estructura-archivos" class="my-btn anterior">Anterior</a>
+    <a href="https://fgarciajulia.github.io/mi_primera_pagina" class="my-btn home">Home</a>
+    <a href="https://fgarciajulia.github.io/mi_primera_pagina/acerca-bootstrap" class="my-btn siguiente">Siguiente</a>
+</div>

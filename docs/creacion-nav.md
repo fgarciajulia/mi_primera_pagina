@@ -48,3 +48,9 @@ Si hay una forma rápida de irritar a un programador es pedirle que revise un co
 En la mayoria de los lenguajes la computadora no entiende de espacios o tabulaciones, HTML es uno de los que no afectan. Pero SI afecta en la comprención de quien lo programa o de quien tiene que hacerle mantenimiento un tiempo despues.
 
 Por eso yo voy a insistir a lo largo del tutorial en la indentación.
+
+<div class="Grid">
+    <a href="https://fgarciajulia.github.io/mi_primera_pagina/menu-bootstrap" class="my-btn anterior">Anterior</a>
+    <a href="https://fgarciajulia.github.io/mi_primera_pagina" class="my-btn home">Home</a>
+    <a href="https://fgarciajulia.github.io/mi_primera_pagina/estilo-nav" class="my-btn siguiente">Siguiente</a>
+</div>

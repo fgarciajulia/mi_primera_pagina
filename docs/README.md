@@ -2,17 +2,18 @@
 Tutorial desarrollado para Programá tu Futuro. 
 Verlo en [https://fgarciajulia.github.io/mi_primera_pagina/](https://fgarciajulia.github.io/mi_primera_pagina/)
 
-## ¿De qué trata el tutorial?
- Vamos a desarrollar desde cero una web estática del tipo landingPage (hecha en una sola pestaña larga) con la temática de portfolio, utilizando el framework de Css3 Bootstrap para estructurar y hacer responsive el contenido. 
-Después de seguir el paso a paso nos debería quedar algo así:
-
-[mi_primera_pagina](http://dacu.com.ar/mi_primera_pagina/)
-
 ## Conocimientos previos
 En este tutorial se asume que ya se tiene conocimiento básicos sobre:
 - HYML
 - CSS
 - Javascript
+
+## ¿De qué trata el tutorial?
+Vamos a desarrollar desde cero una web estática del tipo landingPage (hecha en una sola pestaña larga) con la temática de portfolio, utilizando el framework de CSS3 Bootstrap para estructurar y hacer responsive el contenido. <br />
+Después de seguir el paso a paso nos debería quedar algo así:
+
+[mi_primera_pagina](http://dacu.com.ar/mi_primera_pagina/)
+
 
 # Contenidos
 1.	[Entorno de trabajo](./entorno-trabajo.md)

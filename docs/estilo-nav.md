@@ -134,3 +134,9 @@ De lo contrario TAMBIEN hechale un vistaso a los selectores avanzados, porque ha
 
 [Selectores basicos](https://librosweb.es/libro/css/capitulo_2/selectores_basicos.html)<br />
 [Selectores avanzados](http://librosweb.es/libro/css/capitulo_2/selectores_avanzados.html)
+
+<div class="Grid">
+    <a href="https://fgarciajulia.github.io/mi_primera_pagina/creacion-nav" class="my-btn anterior">Anterior</a>
+    <a href="https://fgarciajulia.github.io/mi_primera_pagina" class="my-btn home">Home</a>
+    <a href="https://fgarciajulia.github.io/mi_primera_pagina" class="my-btn siguiente">Siguiente</a>
+</div>

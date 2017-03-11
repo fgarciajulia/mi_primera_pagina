@@ -29,4 +29,12 @@ Y nos debería quedar algo así:
 ![Imagen](https://fgarciajulia.github.io/mi_primera_pagina/img/estructura.jpg)
 
 
-[Home](https://fgarciajulia.github.io/mi_primera_pagina/)
+
+
+
+
+<div class="Grid">
+    <a href="https://fgarciajulia.github.io/mi_primera_pagina/entorno-trabajo" class="my-btn anterior">Anterior</a>
+    <a href="https://fgarciajulia.github.io/mi_primera_pagina" class="my-btn home">Home</a>
+    <a href="https://fgarciajulia.github.io/mi_primera_pagina/instalacion-bootstrap" class="my-btn siguiente">Siguiente</a>
+</div>
