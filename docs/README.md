@@ -10,9 +10,9 @@ Después de seguir el paso a paso nos debería quedar algo así:
 
 ## Conocimientos previos
 En este tutorial se asume que ya se tiene conocimiento básicos sobre:
-- Html
-- Css
-- Javascrip
+- HYML
+- CSS
+- Javascript
 
 # Contenidos
 1.	[Entorno de trabajo](./entorno-trabajo.md)
@@ -21,6 +21,7 @@ En este tutorial se asume que ya se tiene conocimiento básicos sobre:
     1.	[Acerca de bootstrap y sus grillas](./acerca-bootstrap.md)
     2.	[Como crear un menú en bootstrap](./menu-bootstrap.md)
 4.	[Creamos nuestro menú](./creacion-nav.md)
+4.	[Colocamos estilo al menú](./estilo-nav.md)
 
 ### Referencias
 

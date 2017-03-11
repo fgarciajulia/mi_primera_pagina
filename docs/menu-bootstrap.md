@@ -13,7 +13,7 @@ Entremos nuevamente a codepen para ver el siguiente ejemplo:
 
 ![Imagen](https://fgarciajulia.github.io/mi_primera_pagina/img/navegador-bootstrap.jpg)
 
-1. Apertura con la etiqueta <nav> y las clases .navbar y .navbar-default que crean por defecto una barra de navegación con estilos en bootstrap
+1. Apertura con la etiqueta `<nav>` y las clases .navbar y .navbar-default que crean por defecto una barra de navegación con estilos en bootstrap
 
 2. El div con la clase "container" determina el ancho de lo que esta adentro, en este caso utiliza un maximo de 1200px centrado al medio y tiene un tipo de responsive escalonado según las medidas de la grilla. su fuera conteiner-fluid entonces el mismo siempre tendria el ancho de la pantalla.
 
@@ -81,4 +81,8 @@ Puedes ver toda esta información y más en la página oficial:
 [Documentación de navegadores](http://getbootstrap.com/components/#navbar)
 
 
-[Home](https://fgarciajulia.github.io/mi_primera_pagina/)
+<div class="Grid">
+    <a href="https://fgarciajulia.github.io/mi_primera_pagina/acerca-bootstrap" class="my-btn anterior">Anterior</a>
+    <a href="https://fgarciajulia.github.io/mi_primera_pagina" class="my-btn home">Home</a>
+    <a href="https://fgarciajulia.github.io/mi_primera_pagina/creacion-nav" class="my-btn siguiente">Siguiente</a>
+</div>

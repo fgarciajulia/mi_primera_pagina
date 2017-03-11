@@ -1,0 +1,34 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.my-btn.anterior {
+    background-color: #155799;
+}
+.my-btn.home {
+    background-color: #155799;
+    background-image: linear-gradient(120deg, #155799, #159957);
+}
+.my-btn.siguiente {
+    background-color: #159957;
+}
+.my-btn {
+    width: 120px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.6);
+    background-color: #155799;
+    transition: all 0.2s ease-in-out;
+    border-radius: 0.3rem;
+    padding: 5px;
+}
+
+.my-btn:hover {
+    color: #FFFFFF;
+    box-shadow: 0px 0px 11px -2px black;
+}
+
+.Grid {
+    display:flex;
+    justify-content: space-around;
+}
