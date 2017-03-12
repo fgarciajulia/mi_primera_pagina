@@ -14,14 +14,16 @@ En este tutorial se asume que ya se tiene conocimiento básicos sobre:
 - Css
 - Javascrip
 
-### Contenidos
+### ContenidosContenidos
 1.	[Entorno de trabajo](./docs/entorno-trabajo.md)
 2.	[Estructura de archivos](./docs/estructura-archivos.md)
 3.	[Instalación de bootstrap](./docs/instalacion-bootstrap.md)
     1.	[Acerca de bootstrap y sus grillas](./docs/acerca-bootstrap.md)
     2.	[Como crear un menú en bootstrap](./docs/menu-bootstrap.md)
-4.	[Creamos nuestro menú](./docs/creacion-nav.md)
-4.	[Colocamos estilo al menú](./docs/estilo-nav.md)
+4.	[inspeccionar elemento](./docs/inspeccionar-elemento.md)
+5.	[Creamos nuestro menú](./docs/creacion-nav.md)
+6.	[Colocamos estilo al menú](./docs/estilo-nav.md)
+7.	[Instalación de carrousel](./docs/owlcarousel2.md)
 
 ### Referencias
 

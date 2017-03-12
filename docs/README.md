@@ -21,8 +21,10 @@ Después de seguir el paso a paso nos debería quedar algo así:
 3.	[Instalación de bootstrap](./instalacion-bootstrap.md)
     1.	[Acerca de bootstrap y sus grillas](./acerca-bootstrap.md)
     2.	[Como crear un menú en bootstrap](./menu-bootstrap.md)
-4.	[Creamos nuestro menú](./creacion-nav.md)
-4.	[Colocamos estilo al menú](./estilo-nav.md)
+4.	[inspeccionar elemento](./inspeccionar-elemento.md)
+5.	[Creamos nuestro menú](./creacion-nav.md)
+6.	[Colocamos estilo al menú](./estilo-nav.md)
+7.	[Instalación de carrousel](./owlcarousel2.md)
 
 ### Referencias
 

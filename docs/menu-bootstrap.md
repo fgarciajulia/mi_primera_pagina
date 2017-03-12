@@ -84,5 +84,5 @@ Puedes ver toda esta información y más en la página oficial:
 <div class="Grid">
     <a href="https://fgarciajulia.github.io/mi_primera_pagina/acerca-bootstrap" class="my-btn anterior">Anterior</a>
     <a href="https://fgarciajulia.github.io/mi_primera_pagina" class="my-btn home">Home</a>
-    <a href="https://fgarciajulia.github.io/mi_primera_pagina/creacion-nav" class="my-btn siguiente">Siguiente</a>
+    <a href="https://fgarciajulia.github.io/mi_primera_pagina/inspeccionar-elemento" class="my-btn siguiente">Siguiente</a>
 </div>

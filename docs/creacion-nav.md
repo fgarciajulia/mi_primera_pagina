@@ -50,7 +50,7 @@ En la mayoria de los lenguajes la computadora no entiende de espacios o tabulaci
 Por eso yo voy a insistir a lo largo del tutorial en la indentación.
 
 <div class="Grid">
-    <a href="https://fgarciajulia.github.io/mi_primera_pagina/menu-bootstrap" class="my-btn anterior">Anterior</a>
+    <a href="https://fgarciajulia.github.io/mi_primera_pagina/inspeccionar-elemento" class="my-btn anterior">Anterior</a>
     <a href="https://fgarciajulia.github.io/mi_primera_pagina" class="my-btn home">Home</a>
     <a href="https://fgarciajulia.github.io/mi_primera_pagina/estilo-nav" class="my-btn siguiente">Siguiente</a>
 </div>

@@ -113,7 +113,10 @@ Añadimos estilos al menú, entre ellos:
 
 y algunas cosas más...
 
-> Por ahi apareció un **@media**, la funcion que cumple es decir "todo lo que esta acá adentro, solo aplica **sí** la pantalla tiene" y luego viene la condición que dice **(min-width: 768px)** "un ancho minimo de 768px".
+## Media queries
+
+ Por ahi apareció un **@media**, la funcion que cumple es decir "todo lo que esta acá adentro, solo aplica **sí** la pantalla tiene" y luego viene la condición que dice **(min-width: 768px)** "un ancho minimo de 768px". para más info --> [Link](https://developer.mozilla.org/es/docs/CSS/Media_queries)<br />
+Este va a ser nuestro segundo acercamiento a programar de forma responsive, el primero fue cuando hablamos de los tipo de columnas de bootstrap **lg** **md** **sm** **xs**.
 
 ## Selectores
 
@@ -133,10 +136,15 @@ Te recomiendo FUERTEMENTE que si te costo entender el código que escribimos ant
 De lo contrario TAMBIEN hechale un vistaso a los selectores avanzados, porque hay selectores que no suelen usarse mucho pero cuando los necesitas, son irremplazable, solo hay que saber que excisten, y a la hora de necesitarlos investigaras como se escriben.
 
 [Selectores basicos](https://librosweb.es/libro/css/capitulo_2/selectores_basicos.html)<br />
-[Selectores avanzados](http://librosweb.es/libro/css/capitulo_2/selectores_avanzados.html)
+[Selectores avanzados](https://code.tutsplus.com/es/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
+
+## ¿Que pasa si no me quedo como en la imagen?
+
+Cuando algo no anda como esperamos, nuestra primera reacción debe ser [inspeccionar el elemento](https://fgarciajulia.github.io/mi_primera_pagina/inspeccionar-elemento) apretando F12 o con botón derecho en la web entramos a la consola.
+En el capitulo siguiente vamos a profundizar más este tema.
 
 <div class="Grid">
     <a href="https://fgarciajulia.github.io/mi_primera_pagina/creacion-nav" class="my-btn anterior">Anterior</a>
     <a href="https://fgarciajulia.github.io/mi_primera_pagina" class="my-btn home">Home</a>
-    <a href="https://fgarciajulia.github.io/mi_primera_pagina" class="my-btn siguiente">Siguiente</a>
+    <a href="https://fgarciajulia.github.io/mi_primera_pagina/owlcarousel2" class="my-btn siguiente">Siguiente</a>
 </div>
