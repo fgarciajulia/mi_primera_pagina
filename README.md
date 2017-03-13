@@ -14,15 +14,15 @@ En este tutorial se asume que ya se tiene conocimiento básicos sobre:
 - Javascrip
 
 ### ContenidosContenidos
-1.	[Entorno de trabajo](https://fgarciajulia.github.io/mi_primera_pagina/docs/entorno-trabajo.md)
-2.	[Estructura de archivos](https://fgarciajulia.github.io/mi_primera_pagina/docs/estructura-archivos.md)
-3.	[Instalación de bootstrap](https://fgarciajulia.github.io/mi_primera_pagina/docs/instalacion-bootstrap.md)
-    1.	[Acerca de bootstrap y sus grillas](https://fgarciajulia.github.io/mi_primera_pagina/docs/acerca-bootstrap.md)
-    2.	[Como crear un menú en bootstrap](https://fgarciajulia.github.io/mi_primera_pagina/docs/menu-bootstrap.md)
-4.	[inspeccionar elemento](https://fgarciajulia.github.io/mi_primera_pagina/docs/inspeccionar-elemento.md)
-5.	[Creamos nuestro menú](https://fgarciajulia.github.io/mi_primera_pagina/docs/creacion-nav.md)
-6.	[Colocamos estilo al menú](https://fgarciajulia.github.io/mi_primera_pagina/docs/estilo-nav.md)
-7.	[Instalación de carrousel](https://fgarciajulia.github.io/mi_primera_pagina/docs/owlcarousel2.md)
+1.	[Entorno de trabajo](https://fgarciajulia.github.io/mi_primera_pagina/docs/entorno-trabajo)
+2.	[Estructura de archivos](https://fgarciajulia.github.io/mi_primera_pagina/docs/estructura-archivos)
+3.	[Instalación de bootstrap](https://fgarciajulia.github.io/mi_primera_pagina/docs/instalacion-bootstrap)
+    1.	[Acerca de bootstrap y sus grillas](https://fgarciajulia.github.io/mi_primera_pagina/docs/acerca-bootstrap)
+    2.	[Como crear un menú en bootstrap](https://fgarciajulia.github.io/mi_primera_pagina/docs/menu-bootstrap)
+4.	[inspeccionar elemento](https://fgarciajulia.github.io/mi_primera_pagina/docs/inspeccionar-elemento)
+5.	[Creamos nuestro menú](https://fgarciajulia.github.io/mi_primera_pagina/docs/creacion-nav)
+6.	[Colocamos estilo al menú](https://fgarciajulia.github.io/mi_primera_pagina/docs/estilo-nav)
+7.	[Instalación de carrousel](https://fgarciajulia.github.io/mi_primera_pagina/docs/owlcarousel2)
 
 ### Referencias
 

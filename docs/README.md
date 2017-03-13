@@ -15,15 +15,15 @@ Después de seguir el paso a paso nos debería quedar algo así:
 
 
 # Contenidos
-1.	[Entorno de trabajo](https://fgarciajulia.github.io/mi_primera_pagina/entorno-trabajo.md)
-2.	[Estructura de archivos](https://fgarciajulia.github.io/mi_primera_pagina/estructura-archivos.md)
-3.	[Instalación de bootstrap](https://fgarciajulia.github.io/mi_primera_pagina/instalacion-bootstrap.md)
-    1.	[Acerca de bootstrap y sus grillas](https://fgarciajulia.github.io/mi_primera_pagina/acerca-bootstrap.md)
-    2.	[Como crear un menú en bootstrap](https://fgarciajulia.github.io/mi_primera_pagina/menu-bootstrap.md)
-4.	[inspeccionar elemento](https://fgarciajulia.github.io/mi_primera_pagina/inspeccionar-elemento.md)
-5.	[Creamos nuestro menú](https://fgarciajulia.github.io/mi_primera_pagina/creacion-nav.md)
-6.	[Colocamos estilo al menú](https://fgarciajulia.github.io/mi_primera_pagina/estilo-nav.md)
-7.	[Instalación de carrousel](https://fgarciajulia.github.io/mi_primera_pagina/owlcarousel2.md)
+1.	[Entorno de trabajo](https://fgarciajulia.github.io/mi_primera_pagina/entorno-trabajo)
+2.	[Estructura de archivos](https://fgarciajulia.github.io/mi_primera_pagina/estructura-archivos)
+3.	[Instalación de bootstrap](https://fgarciajulia.github.io/mi_primera_pagina/instalacion-bootstrap)
+    1.	[Acerca de bootstrap y sus grillas](https://fgarciajulia.github.io/mi_primera_pagina/acerca-bootstrap)
+    2.	[Como crear un menú en bootstrap](https://fgarciajulia.github.io/mi_primera_pagina/menu-bootstrap)
+4.	[inspeccionar elemento](https://fgarciajulia.github.io/mi_primera_pagina/inspeccionar-elemento)
+5.	[Creamos nuestro menú](https://fgarciajulia.github.io/mi_primera_pagina/creacion-nav)
+6.	[Colocamos estilo al menú](https://fgarciajulia.github.io/mi_primera_pagina/estilo-nav)
+7.	[Instalación de carrousel](https://fgarciajulia.github.io/mi_primera_pagina/owlcarousel2)
 
 ### Referencias
 
