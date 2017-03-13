@@ -102,7 +102,7 @@ Y como último cambio vamos a importar nuestro main.js **justo por debajo** de l
 Para cuando terminen esto podrán "guardar todos los archivos" y abrir el archivo index.html con el chrome y les aparecerá un **Hello, world!**.<br />
 Luego hacemos botón derecho en la web y ponemos **inspeccionar elemento** o apretaremos F12.<br />
 Si en la parte de abajo de la consola no figura ningún error en rojo, entonces hemos terminado la instalación de boostrap con éxito!<br />
-Si nos figura un error será cuestión de leerlo, los más frecuentes son que no encuentra un archivo de los que hemos vinculado, esto puede ser porque escribimos mal una ruta o porque el archivo no está donde debería.
+Si nos figura un error será cuestión de leerlo, los más frecuentes son que no encuentra un archivo de los que hemos vinculado, esto puede ser porque escribimos mal una ruta o porque el archivo no está donde debería.<br />
 Hay un [capitulo](https://fgarciajulia.github.io/mi_primera_pagina/inspeccionar-elemento) entero relacionado a esto.
 
 <div class="Grid">
