@@ -1,4 +1,4 @@
-# Acerca de Bootstrap
+# 3.1 Acerca de Bootstrap
 
 Bootstrap es un framework (librerías de CSS) que nos facilita y estandariza el desarrollo de sitios web.<br />
 Está pensado para que se adapte tanto a las pantallas de equipos de escritorio como a móviles y tablets.<br />

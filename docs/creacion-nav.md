@@ -1,4 +1,4 @@
-# Creamos el menú de nuestra página
+# 5 Creamos el menú de nuestra página
 Como en el capítulo anterior explicamos la estructura de los menús de bootstrap, no vamos a entrar mucho en detalle. Simplemente les dejo el código ya masticado para que lo copien:
 
 Lo vamos a colocar dentro de la etiqueta body, y vamos a borrar el Hola mundo, porque ya no lo necesitamos.

@@ -1,4 +1,4 @@
-# Estructura de archivos
+# 2 Estructura de archivos
 
 Para comenzar vamos a crear una estructura de 3 archivos y 4 carpeta:
 

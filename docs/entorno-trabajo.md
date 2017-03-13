@@ -1,4 +1,4 @@
-# Preparamos nuestro entorno de trabajo.
+# 1 Preparamos nuestro entorno de trabajo.
 
 ## Editor de texto.
 En primer lugar vamos a necesitar un editor de texto, pueden utilizar el programa con el que ya estén acostumbrados.<br />

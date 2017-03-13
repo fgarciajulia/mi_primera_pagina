@@ -1,4 +1,4 @@
-# Instalación Bootstrap
+# 3.0 Instalación Bootstrap
 
 Lo primero que hacemos es entrar a la página oficial e ir a get start
 

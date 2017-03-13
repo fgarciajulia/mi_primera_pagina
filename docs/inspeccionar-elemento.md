@@ -1,4 +1,4 @@
-## Inspeccionar elemento
+## 4 Inspeccionar elemento
 
 Cuando algo no anda como esperamos, nuestra primera reacción debe ser inspeccionar el elemento apretando F12 o con botón derecho en la web y entramos a la consola.
 Nos fijamos si arriba a la derecha nos marca algún error en un circulito rojo.. 

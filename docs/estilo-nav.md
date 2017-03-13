@@ -1,4 +1,4 @@
-# Colocamos estilo al menú
+# 6 Colocamos estilo al menú
 
 Para añadir estilo al menú vamos a ir a nuestro archivo main.css y añadimos lo siguiente:
 

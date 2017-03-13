@@ -1,6 +1,5 @@
 # Mi primera página
 Tutorial desarrollado para Programá tu Futuro. 
-Verlo en [https://fgarciajulia.github.io/mi_primera_pagina/](https://fgarciajulia.github.io/mi_primera_pagina/)
 
 ## Conocimientos previos
 En este tutorial se asume que ya se tiene conocimiento básicos sobre:
@@ -16,15 +15,15 @@ Después de seguir el paso a paso nos debería quedar algo así:
 
 
 # Contenidos
-1.	[Entorno de trabajo](./entorno-trabajo.md)
-2.	[Estructura de archivos](./estructura-archivos.md)
-3.	[Instalación de bootstrap](./instalacion-bootstrap.md)
-    1.	[Acerca de bootstrap y sus grillas](./acerca-bootstrap.md)
-    2.	[Como crear un menú en bootstrap](./menu-bootstrap.md)
-4.	[inspeccionar elemento](./inspeccionar-elemento.md)
-5.	[Creamos nuestro menú](./creacion-nav.md)
-6.	[Colocamos estilo al menú](./estilo-nav.md)
-7.	[Instalación de carrousel](./owlcarousel2.md)
+1.	[Entorno de trabajo](https://fgarciajulia.github.io/mi_primera_pagina/entorno-trabajo.md)
+2.	[Estructura de archivos](https://fgarciajulia.github.io/mi_primera_pagina/estructura-archivos.md)
+3.	[Instalación de bootstrap](https://fgarciajulia.github.io/mi_primera_pagina/instalacion-bootstrap.md)
+    1.	[Acerca de bootstrap y sus grillas](https://fgarciajulia.github.io/mi_primera_pagina/acerca-bootstrap.md)
+    2.	[Como crear un menú en bootstrap](https://fgarciajulia.github.io/mi_primera_pagina/menu-bootstrap.md)
+4.	[inspeccionar elemento](https://fgarciajulia.github.io/mi_primera_pagina/inspeccionar-elemento.md)
+5.	[Creamos nuestro menú](https://fgarciajulia.github.io/mi_primera_pagina/creacion-nav.md)
+6.	[Colocamos estilo al menú](https://fgarciajulia.github.io/mi_primera_pagina/estilo-nav.md)
+7.	[Instalación de carrousel](https://fgarciajulia.github.io/mi_primera_pagina/owlcarousel2.md)
 
 ### Referencias
 

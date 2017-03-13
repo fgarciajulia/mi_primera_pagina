@@ -1,4 +1,4 @@
-# Menú de navegación
+# 3.2 Menú de navegación
 
 Bootstrap nos va a permitir crear barras de navegación muy fácilmente por medio de las clases y componentes que trae por defecto este framework. Nos va a permitir crear barras de menú responsive que se adapten a cualquier dispositivo, menús despegables, con cajas de búsqueda y otras funcionalidades.
 ![Imagen](https://fgarciajulia.github.io/mi_primera_pagina/img/navbar-bootstrap-demo.gif)
