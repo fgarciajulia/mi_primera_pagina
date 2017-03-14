@@ -1,6 +1,6 @@
-# 2 Estructura de archivos
+# 2. Estructura de archivos
 
-Para comenzar vamos a crear una estructura de 3 archivos y 4 carpeta:
+Para comenzar vamos a crear una estructura de 4 carpetas y 3 archivos:
 
 ```
 mi_primera_pagina/
@@ -20,17 +20,13 @@ Para ver las extensiones de los archivos es necesario **destildar** la opción: 
 ![Imagen](https://fgarciajulia.github.io/mi_primera_pagina/img/captura2.jpg)
 
 
-Para crear los archivos debemos poner **nuevo** -> **documento de texto** y luego cambiarle la extensión .txt por la que le corresponda a cada archivo (css, y js) <br />
-Tener cuidado que no nos quede style.css.txt (esto se evita con el ítem anterior )
+Para crear los archivos debemos poner **nuevo** -> **documento de texto** y luego cambiarle la extensión .txt por la que le corresponda a cada archivo (.html .css y .js) <br />
+Tener cuidado que no nos quede style.css.txt (esto se evita con el ítem anterior)
  
 Una vez creados estos archivos vamos a visual code (o tu editor de texto) y abrimos la **carpeta** del proyecto **mi_primera_pagina**.<br />
 Y nos debería quedar algo así:
 
 ![Imagen](https://fgarciajulia.github.io/mi_primera_pagina/img/estructura.jpg)
-
-
-
-
 
 
 <div class="Grid">

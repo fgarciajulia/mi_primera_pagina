@@ -2,13 +2,13 @@
 Tutorial desarrollado para Programá tu Futuro. 
 
 ## Conocimientos previos
-En este tutorial se asume que ya se tiene conocimiento básicos sobre:
-- HYML
+En este tutorial se asume que ya se tiene conocimientos básicos sobre los lenguajes:
+- HTML
 - CSS
-- Javascript
+- JAVASCRIPT
 
 ## ¿De qué trata el tutorial?
-Vamos a desarrollar desde cero una web estática del tipo landingPage (hecha en una sola pestaña larga) con la temática de portfolio, utilizando el framework de CSS3 Bootstrap para estructurar y hacer responsive el contenido. <br />
+Vamos a desarrollar desde cero una web estática del tipo  tipo landing page (hecha en una sola pestaña larga) con la temática de portfolio. Para este proyecto vamos a utilizar Bootstrap, que es un framework de CSS3 que nos permite estructurar la página y hacer que el contenido sea responsive. Después de seguir el paso a paso nos debería quedar algo así: <br />
 Después de seguir el paso a paso nos debería quedar algo así:
 
 [mi_primera_pagina](http://dacu.com.ar/mi_primera_pagina/)
@@ -17,7 +17,7 @@ Después de seguir el paso a paso nos debería quedar algo así:
 # Contenidos
 1.	[Entorno de trabajo](https://fgarciajulia.github.io/mi_primera_pagina/entorno-trabajo)
 2.	[Estructura de archivos](https://fgarciajulia.github.io/mi_primera_pagina/estructura-archivos)
-3.	[Instalación de bootstrap](https://fgarciajulia.github.io/mi_primera_pagina/instalacion-bootstrap)
+3.	[Instalación de Bootstrap](https://fgarciajulia.github.io/mi_primera_pagina/instalacion-bootstrap)
     1.	[Acerca de bootstrap y sus grillas](https://fgarciajulia.github.io/mi_primera_pagina/acerca-bootstrap)
     2.	[Como crear un menú en bootstrap](https://fgarciajulia.github.io/mi_primera_pagina/menu-bootstrap)
 4.	[inspeccionar elemento](https://fgarciajulia.github.io/mi_primera_pagina/inspeccionar-elemento)
