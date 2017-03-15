@@ -93,12 +93,12 @@ Para añadir estilo al menú vamos a ir a nuestro archivo main.css y añadimos l
 }
 ```
 
-Si abrimos el index.html en nuestro navegador deberiamos ver algo así:
+Si abrimos el index.html en nuestro navegador deberíamos ver algo así:
 
 ![Imagen](https://fgarciajulia.github.io/mi_primera_pagina/img/menu1.jpg)
 
 
-## ¿Que fue lo que hicimos?
+## ¿Qué fue lo que hicimos?
 
 Añadimos estilos al menú, entre ellos:
 
@@ -106,7 +106,7 @@ Añadimos estilos al menú, entre ellos:
 - Márgenes internos.
 - Bordes de color.
 - Márgenes externos.
-- Elegimos una familia tipografica, les dijimos que grosor deben tener, que interletrado.
+- Elegimos una familia tipográfica (le dijimos qué grosor deben tener, qué interletrado)
 - Le dijimos que haya textos que se pongan en mayúscula
 - Variaciones de tamaño
 - Tiempos de transición para estas variaciones de tamaño.
@@ -116,7 +116,7 @@ y algunas cosas más...
 ## Media queries
 
  Por ahi apareció un **@media**, la funcion que cumple es decir "todo lo que esta acá adentro, solo aplica **sí** la pantalla tiene" y luego viene la condición que dice **(min-width: 768px)** "un ancho minimo de 768px". para más info --> [Link](https://developer.mozilla.org/es/docs/CSS/Media_queries)<br />
-Este va a ser nuestro segundo acercamiento a programar de forma responsive, el primero fue cuando hablamos de los tipo de columnas de bootstrap **lg** **md** **sm** **xs**.
+Este va a ser nuestro segundo acercamiento a programar de forma responsive, el primero fue cuando hablamos de los tipos de columnas de bootstrap **lg** **md** **sm** **xs**.
 
 ## Selectores
 

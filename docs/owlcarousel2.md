@@ -1,4 +1,4 @@
-# 7 Instalación de carrusel
+# 7. Instalación de carrusel
 
 ## Introducción
 

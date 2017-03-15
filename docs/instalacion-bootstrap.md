@@ -69,10 +69,10 @@ Esta es la estructura básica del archivo HTML, no entraremos muy en detalle al 
 
 ## Algunos ajustes
 
-Yo prefiero trabajar (en tiempo de desarrollo) con el archivo bootstrap.css y no con el bootstrap.**min**.css , de manera que voy a mandar a llamar al otro archivo simplemente sacando el **min**.<br />
+Considero preferible trabajar (en tiempo de desarrollo) con el archivo bootstrap.css y no con el bootstrap.**min**.css , de manera que voy a mandar a llamar al otro archivo simplemente sacando el *`.*min**.<br />
 Para entender qué diferencia hay entre un archivo min ( minificado ) y uno no minificado pueden visitar esta página [Minificar CSS](https://lenguajecss.com/p/css/introduccion/minificar-css)
 
-Por otro lado, tampoco es recomendable trabajar con el **jquery** de forma online porque cuando se corta internet no se puede seguir trabajando. Para cambiar esto:
+Por otro lado, personalmente sugiero NO trabajar con el **jquery** de forma online porque cuando se corta internet no se puede seguir trabajando. Para cambiar esto:
 - Entramos a: [https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js](https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js)
 - Hacemos botón derecho --> **guardar como** y lo guardamos en la carpeta js de nuestro proyecto.
 - Una vez que está en nuestro proyecto reemplazamos la siguiente línea.

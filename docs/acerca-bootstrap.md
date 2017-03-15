@@ -24,7 +24,7 @@ La más genérica es que permite simplificar el proceso de maquetación, sirvié
 
 Lo más importante de entender en un principio es el sistema de grillas que plantea la librería Bootstrap.<br />
 El esquema de página que nos propone Bootstrap está compuesto por filas y columnas. En cada fila se puede definir de 1 hasta 12 columnas. Cada columna posee un ancho relativo a ese número 12.<br />
-Para esto, aparece el concepto de "colapsar" éste hace referencia a que cuando la pantalla del dispositivo en el que estoy viendo la página se chica y el contenido ya no entra en la cantidad de columnas que le asigne, entonces colapsa y las columnas que le asigne quedan sin efecto. Esto no se hace automático, esto lo tenemos que asignar nosotros con el **tipo** de columnas **lg md sm xs**.
+Para esto, aparece el concepto de "colapsar", éste hace referencia a lo que sucede cuando la pantalla del dispositivo en el que estoy viendo la página se achica y el contenido ya no entra en la cantidad de columnas que le asigné, entonces colapsa y las columnas que le asigné quedan sin efecto. Esto no se hace automático, esto lo tenemos que asignar nosotros con el **tipo** de columnas **lg md sm xs**.
 
 Para ver y entender cómo creamos las columnas en cada fila y cómo **colapsan** según el ancho del dispositivo podemos analizar el siguiente caso:
 
@@ -32,7 +32,7 @@ Para ver y entender cómo creamos las columnas en cada fila y cómo **colapsan**
 [Ejemplo con codepen](https://codepen.io/fgarciajulia/pen/OpWgNK)
 
 
-Si abrimos esta página en un monitor con un ancho superior a 1200 px podemos ver que se muestran tres columnas por fila:
+Si abrimos esta página en un monitor con un ancho superior a 1200 px podemos ver que se muestran 3 columnas por fila:
 
 
 ![Imagen](https://fgarciajulia.github.io/mi_primera_pagina/img/boostrap1.jpg)
@@ -48,7 +48,7 @@ El lugar donde aparece el asterisco deberá ser reemplazado por un valor entre 1
 
 En nuestro ejemplo cada una de las columnas tiene un valor 4 (siempre la suma de dichos valores de una fila debe sumar 12 o quedarán columnas vacías en dicho caso).
 
-Como asignamos 4 a cada columna las 3 columnas tienen el mismo ancho:
+Como asignamos 4 unidades a cada columna las 3 columnas tienen el mismo ancho:
 
 ```
     <div class="row">
@@ -110,7 +110,7 @@ Es bueno analizar de dónde provienen las palabras que dan origen a las reglas d
 
 Las columnas colapsarán o se redistribuirán de acuerdo al tipo de clase que le asignemos nosotros. Si no queremos que colapse entonces empleamos col-xs-*
 
-Estas clases son combinables, de manera que yo podría decir que cuando colapse las 4 columnas del tipo **lg** tenga una 8 columnas del tipo **xs**.
+Estas clases son combinables, de manera que yo podría decir que cuando colapse las 4 columnas del tipo **lg** queden unas 8 columnas del tipo **xs**.
 
 por ejemplo:
 ```

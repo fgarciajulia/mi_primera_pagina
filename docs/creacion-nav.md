@@ -1,7 +1,7 @@
-# 5 Creamos el menú de nuestra página
+# 5. Creamos el menú de nuestra página
 Como en el capítulo anterior explicamos la estructura de los menús de bootstrap, no vamos a entrar mucho en detalle. Simplemente les dejo el código ya masticado para que lo copien:
 
-Lo vamos a colocar dentro de la etiqueta body, y vamos a borrar el Hola mundo, porque ya no lo necesitamos.
+Lo vamos a colocar dentro de la etiqueta body, y vamos a borrar el "Hola mundo", porque ya no lo necesitamos.
 
 ```
 <!-- menú -->
@@ -36,18 +36,18 @@ Lo vamos a colocar dentro de la etiqueta body, y vamos a borrar el Hola mundo, p
 ```
 
 Una vez copiado este código vamos a **auto-indentar** el archivo, para hacer esto cada programa utiliza distintos comandos.<br />
-El que instalo el visual code, e instalo correctamente las extenciones con solo apretar **Shift+Alt+F** ya se indenta solo.<br />
+El que instaló el visual code, e instaló correctamente las extensiones con solo apretar **Shift+Alt+F** ya se indenta solo.<br />
 ¿Qué es la indentación? Te lo explico a continuación...
 
-## Indentación o sangrado.
+## Indentación o sangrado
 
 Este término significa mover un bloque de texto hacia la derecha insertando espacios o tabuladores, para así separarlo del margen izquierdo y mejor distinguirlo del texto adyacente.
 
-Si hay una forma rápida de irritar a un programador es pedirle que revise un codigo mal indentado. Es como escribir con faltas de ortografía o peor aún, porque en este caso no se llega a entender o se presta a confuciones.
+Si hay una forma rápida de irritar a un programador es pedirle que revise un código mal indentado. Es como escribir con faltas de ortografía o peor aún, porque en este caso no se llega a entender o se presta a confusiones.
 
-En la mayoria de los lenguajes la computadora no entiende de espacios o tabulaciones, HTML es uno de los que no afectan. Pero SI afecta en la comprención de quien lo programa o de quien tiene que hacerle mantenimiento un tiempo despues.
+En la mayoria de los lenguajes la computadora no entiende de espacios o tabulaciones, HTML es uno de los que no afectan. Pero SI afecta en la comprensión de quien lo programa o de quien tiene que hacerle mantenimiento un tiempo después.
 
-Por eso yo voy a insistir a lo largo del tutorial en la indentación.
+Por eso, voy a insistir a lo largo del tutorial en la indentación.
 
 <div class="Grid">
     <a href="https://fgarciajulia.github.io/mi_primera_pagina/inspeccionar-elemento" class="my-btn anterior">Anterior</a>
