@@ -2,7 +2,7 @@
 
 ## Introducción
 
-Cuando uno recién comienza en el mundo de la programación (y después también) muchos problemas se solucionan preguntándose "¿Dónde lo definiste?" Y "¿dónde lo estas consumiendo?<br />
+Cuando uno recién comienza en el mundo de la programación (y después también) muchos problemas se solucionan preguntándose "¿Dónde lo definiste?" Y "¿dónde lo estás consumiendo?<br />
 La respuesta puede ser "Ahh... no lo definí", o "no lo estoy consumiendo".<br />
 Como explicamos en el capítulo anterior, nosotros ya tenemos definido el owlcarousel2, si bien no lo definimos literalmente nosotros, levantamos la librería **.js** de owlcarousel2 con `<link...>` y ahí adentro está definida la función `owlCarousel()`, también definimos todas las clases/estilos que va a usar nuestro carrusel cuando levantamos el **.css**.
 
@@ -42,7 +42,7 @@ En esta parte hay algunos detalles para explicar, cuando yo coloco el siguiente 
 Es una buena práctica colocar esta función para postergar la ejecución del carrusel, si no estuviera se retrasaría la carga de toda la web hasta que no se termine de procesar
 ```
 $(document).ready(function(){
-// Se ejecuta despues de que se leyo toda la página
+// Se ejecuta después de que se leyó toda la página.
 });
 ```
 
@@ -53,7 +53,7 @@ Véase que los selectores son muy similares a los que vimos en css.
 ```
   $(".owl-carousel").owlCarousel();
 ```
-Adentro de los paréntesis se colocan los parámetros que queremos configurar al carrusel, según figura en la documentación.
+Dentro de los paréntesis se colocan los parámetros que queremos configurar al carrusel, según figura en la documentación.
 ```
 ({
     items: 1,
@@ -114,7 +114,7 @@ Descargamos estas 3 imágenes y las colocamos en la carpeta `/img:`<br />
 [imagen2](https://github.com/fgarciajulia/mi_primera_pagina/blob/master/img/profile2.png)<br />
 [imagen3](https://github.com/fgarciajulia/mi_primera_pagina/blob/master/img/profile3.png)<br />
 
-Por ultimo en main.css colocamos los siguientes estilos:
+Por último en main.css colocamos los siguientes estilos:
 
 ```
 /* .header */
