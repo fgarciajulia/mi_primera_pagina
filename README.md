@@ -23,6 +23,7 @@ En este tutorial se asume que ya se tiene conocimiento básicos sobre:
 5.	[Creamos nuestro menú](https://fgarciajulia.github.io/mi_primera_pagina/creacion-nav)
 6.	[Colocamos estilo al menú](https://fgarciajulia.github.io/mi_primera_pagina/estilo-nav)
 7.	[Instalación de carrousel](https://fgarciajulia.github.io/mi_primera_pagina/owlcarousel2)
+8.	["Consumimos" el carrousel](https://fgarciajulia.github.io/mi_primera_pagina/consumo-carrusel)
 
 ### Referencias
 

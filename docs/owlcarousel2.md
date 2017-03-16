@@ -2,12 +2,12 @@
 
 ## Introducción
 
-En mi experiencia investigando carruseles de distintos tipos recomiendo fuertemente el [Owl Carousel 2](https://owlcarousel2.github.io/OwlCarousel2/), , incluso por encima del que trae por defecto el bootstrap, ya que entre otras cosas el de bootstrap no permite pasar las imágenes arrastrándolas en una pantalla táctil.<br />
+En mi experiencia investigando carruseles de distintos tipos recomiendo fuertemente el [Owl Carousel 2](https://owlcarousel2.github.io/OwlCarousel2/), incluso por encima del que trae por defecto el bootstrap, ya que entre otras cosas el de bootstrap no permite pasar las imágenes arrastrándolas en una pantalla táctil.<br />
 El carrousel nos da unas [demostraciones](https://owlcarousel2.github.io/OwlCarousel2/demos/demos.html) y como configurarlas, su [documentación](https://owlcarousel2.github.io/OwlCarousel2/docs/started-welcome.html) es muy importante, porque tiene muchas “configuraciones” básicas y otras más complejas pero muy útiles si se las necesita.<br />
 > Véase que es el Owl Carousel **2**, existe el 1, el 1 NO, porque ya no tiene soporte.
 
 
-## ¿Cómo lo integro a la web?
+## ¿Cómo lo integro a la web ( lo defino )?
 
 Lo primero entramos a la [documentación](https://owlcarousel2.github.io/OwlCarousel2/docs/started-welcome.html), nos bajamos el archivo que dice:  **Distributed version - compiled and minified. Javascript, images and CSS included.** 
 
@@ -49,5 +49,5 @@ Shift+Alt+F en **Visual code**
 <div class="Grid">
     <a href="https://fgarciajulia.github.io/mi_primera_pagina/estilo-nav" class="my-btn anterior">Anterior</a>
     <a href="https://fgarciajulia.github.io/mi_primera_pagina" class="my-btn home">Home</a>
-    <a href="https://fgarciajulia.github.io/mi_primera_pagina" class="my-btn siguiente">Siguiente</a>
+    <a href="https://fgarciajulia.github.io/mi_primera_pagina/consumo-carrusel" class="my-btn siguiente">Siguiente</a>
 </div>
