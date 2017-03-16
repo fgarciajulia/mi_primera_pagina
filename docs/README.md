@@ -1,14 +1,14 @@
 # Mi primera página
-Tutorial desarrollado para Programá tu Futuro. 
+Tutorial desarrollado para Programá tu Futuro.
 
 ## Conocimientos previos
-En este tutorial se asume que ya se tiene conocimientos básicos sobre los lenguajes:
-- HTML
-- CSS
-- JAVASCRIPT
+En este tutorial se asume que ya se tiene conocimiento básicos sobre:
+- Html
+- Css
+- Javascrip
 
 ## ¿De qué trata el tutorial?
-Vamos a desarrollar desde cero una web estática del tipo  tipo landing page (hecha en una sola pestaña larga) con la temática de portfolio. Para este proyecto vamos a utilizar Bootstrap, que es un framework de CSS3 que nos permite estructurar la página y hacer que el contenido sea responsive. Después de seguir el paso a paso nos debería quedar algo así: <br />
+Vamos a desarrollar desde cero una web estática del tipo landingPage (hecha en una sola pestaña larga) con la temática de portfolio, utilizando el framework de CSS3 Bootstrap para estructurar y hacer responsive el contenido.<br />
 Después de seguir el paso a paso nos debería quedar algo así:
 
 [mi_primera_pagina](http://dacu.com.ar/mi_primera_pagina/)
@@ -29,4 +29,5 @@ Después de seguir el paso a paso nos debería quedar algo así:
 ### Referencias
 
 - Bootstrap: [http://getbootstrap.com/getting-started/](http://getbootstrap.com/getting-started/) <br />
+
 - Owl Carousel 2: [https://owlcarousel2.github.io/OwlCarousel2/docs/started-welcome.html](https://owlcarousel2.github.io/OwlCarousel2/docs/started-welcome.html) <br />

@@ -1,19 +1,20 @@
 # Mi primera página
 Tutorial desarrollado para Programá tu Futuro. 
 
-## ¿De qué trata el tutorial?
- Vamos a desarrollar desde cero una web estática del tipo landingPage (hecha en una sola pestaña larga) con la temática de portfolio, utilizando el framework de Css3 Bootstrap para estructurar y hacer responsive el contenido. 
-Después de seguir el paso a paso nos debería quedar algo así:
-
-[mi_primera_pagina](http://dacu.com.ar/mi_primera_pagina/)
-
 ## Conocimientos previos
 En este tutorial se asume que ya se tiene conocimiento básicos sobre:
 - Html
 - Css
 - Javascrip
 
-### ContenidosContenidos
+## ¿De qué trata el tutorial?
+Vamos a desarrollar desde cero una web estática del tipo landingPage (hecha en una sola pestaña larga) con la temática de portfolio, utilizando el framework de CSS3 Bootstrap para estructurar y hacer responsive el contenido.<br />
+Después de seguir el paso a paso nos debería quedar algo así:
+
+[mi_primera_pagina](http://dacu.com.ar/mi_primera_pagina/)
+
+
+# Contenidos
 1.	[Entorno de trabajo](https://fgarciajulia.github.io/mi_primera_pagina/entorno-trabajo)
 2.	[Estructura de archivos](https://fgarciajulia.github.io/mi_primera_pagina/estructura-archivos)
 3.	[Instalación de Bootstrap](https://fgarciajulia.github.io/mi_primera_pagina/instalacion-bootstrap)
