@@ -31,7 +31,7 @@ Este es un error muy común. Sobre todo cuando uno trabaja con más de un archiv
 
 Algunas veces el chrome guarda archivos temporales de la web, como ser el archivo Css o mismo el HTML. 
 
-Es una buena práctica trabajar en el modo incógnito de crhoeme y/o cuando quiero actualizarla apretar **Control+F5** ( y no solo F5). Con esta combinación de teclas nos aseguramos que se borren estos datos temporales y se vuelvan a bajar cuando carga la página.
+Es una buena práctica trabajar en el modo incógnito de chrome y/o cuando quiero actualizarla apretar **Control+F5** ( y no solo F5). Con esta combinación de teclas nos aseguramos que se borren estos datos temporales y se vuelvan a bajar cuando carga la página.
 
 
 <div class="Grid">

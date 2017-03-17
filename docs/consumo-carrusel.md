@@ -10,7 +10,7 @@ De manera que ahora solo queda consumirlo.
 
 Para consumirlo tenemos que:
 
-1. 1.	Colocar el contenido dentro de un div, con la clase`owl-carousel`.
+1-	Colocar el contenido dentro de un div, con la clase`owl-carousel`.
 
 Por ejemplo:
 ```
@@ -25,7 +25,7 @@ Por ejemplo:
 </div>
 ```
 
-2. Consumir la función `owlCarousel()`.
+2- Consumir la función `owlCarousel()`.
 
 ```
  $(document).ready(function(){
@@ -110,9 +110,9 @@ Finalmente a modo de ejemplo vamos a colocar el siguiente carrusel debajo del `<
 ```
 
 Descargamos estas 3 imágenes y las colocamos en la carpeta `/img:`<br />
-[imagen1](https://github.com/fgarciajulia/mi_primera_pagina/blob/master/img/profile1.png)<br />
-[imagen2](https://github.com/fgarciajulia/mi_primera_pagina/blob/master/img/profile2.png)<br />
-[imagen3](https://github.com/fgarciajulia/mi_primera_pagina/blob/master/img/profile3.png)<br />
+[imagen1](https://raw.githubusercontent.com/fgarciajulia/mi_primera_pagina/master/img/profile1.png)<br />
+[imagen2](https://raw.githubusercontent.com/fgarciajulia/mi_primera_pagina/master/img/profile2.png)<br />
+[imagen3](https://raw.githubusercontent.com/fgarciajulia/mi_primera_pagina/master/img/profile3.png)<br />
 
 Por último en main.css colocamos los siguientes estilos:
 
@@ -160,7 +160,12 @@ Perfecto! ya terminamos... definimos el carrusel y lo consumimos... Lo consumimo
 Si no lo hiciste deberías añadir el siguiente código en `main.js`
 ```
  $(document).ready(function(){
-  $(".owl-carousel").owlCarousel();
+  $(".owl-carousel").owlCarousel(
+    items:1,
+    loop:true,
+    autoplay:true,
+    autoplayTimeout:1000,
+  );
 });
 ```
 

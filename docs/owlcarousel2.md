@@ -3,7 +3,7 @@
 ## Introducción
 
 En mi experiencia investigando carruseles de distintos tipos recomiendo fuertemente el [Owl Carousel 2](https://owlcarousel2.github.io/OwlCarousel2/), incluso por encima del que trae por defecto el bootstrap, ya que entre otras cosas el de bootstrap no permite pasar las imágenes arrastrándolas en una pantalla táctil.<br />
-El carrousel nos da unas [demostraciones](https://owlcarousel2.github.io/OwlCarousel2/demos/demos.html) y como configurarlas, su [documentación](https://owlcarousel2.github.io/OwlCarousel2/docs/started-welcome.html) es muy importante, porque tiene muchas “configuraciones” básicas y otras más complejas pero muy útiles si se las necesita.<br />
+Owl Carousel nos da diferentes [demostraciones](https://owlcarousel2.github.io/OwlCarousel2/demos/demos.html) y también nos indica cómo configurarlas. La [documentación](https://owlcarousel2.github.io/OwlCarousel2/docs/started-welcome.html) que trae es muy importante, porque tiene muchas “configuraciones” básicas y otras más complejas pero muy útiles si se las necesita.<br />
 > Véase que es el Owl Carousel **2**, existe el 1, el 1 NO, porque ya no tiene soporte.
 
 
