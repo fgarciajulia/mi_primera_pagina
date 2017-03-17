@@ -24,14 +24,12 @@ Con el texto ya seleccionado, vamos al menú desplegable
 
 ![Imagen](https://fgarciajulia.github.io/mi_primera_pagina/img/sublime2.jpg)
 
-Esta característica no cuenta con un atajo predeterminado en Sublime Text, pero tu puedes setearlo para hacerlo de una forma mas rapida.  Para eso vamos al menú desplegable  
-Preferences -> Key Bindings 
+Esta característica no cuenta con un atajo predeterminado en Sublime Text, pero podes setearlo para hacerlo de una forma más rapida.  Para eso vamos al menú desplegable  
+`Preferences -> Key Bindings`
 
 ![Imagen](https://fgarciajulia.github.io/mi_primera_pagina/img/sublime.jpg)
 
-Esto abrirá una nueva ventana que está dividida en 2 partes. Cuando esto pase en la pantalla de la derecha, la cual se llamará 
-
-`“Default.(Windows).sublime-keymap -- User”`,  pegaremos el siguiente texto sin modificar nada y dentro de los corchetes 
+Esto abrirá una nueva ventana que está dividida en 2 partes. Cuando esto pase en la pantalla de la derecha, la cual se llamará `“Default.(Windows).sublime-keymap -- User”`,  pegaremos el siguiente texto sin modificar nada y dentro de los corchetes 
 
 `{"keys": ["alt+shift+f"], "command": "reindent", "args": {"single_line": false}}`
 

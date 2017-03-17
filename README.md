@@ -20,7 +20,7 @@ Después de seguir el paso a paso nos debería quedar algo así:
 3.	[Instalación de Bootstrap](https://fgarciajulia.github.io/mi_primera_pagina/instalacion-bootstrap)
     1.	[Acerca de bootstrap y sus grillas](https://fgarciajulia.github.io/mi_primera_pagina/acerca-bootstrap)
     2.	[Como crear un menú en bootstrap](https://fgarciajulia.github.io/mi_primera_pagina/menu-bootstrap)
-4.	[inspeccionar elemento](https://fgarciajulia.github.io/mi_primera_pagina/inspeccionar-elemento)
+4.	[Inspeccionar elemento](https://fgarciajulia.github.io/mi_primera_pagina/inspeccionar-elemento)
 5.	[Creamos nuestro menú](https://fgarciajulia.github.io/mi_primera_pagina/creacion-nav)
 6.	[Colocamos estilo al menú](https://fgarciajulia.github.io/mi_primera_pagina/estilo-nav)
 7.	[Instalación de carrousel](https://fgarciajulia.github.io/mi_primera_pagina/owlcarousel2)
