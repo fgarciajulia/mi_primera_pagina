@@ -2,15 +2,15 @@
 
 ## Introducción
 
-Cuando uno recién comienza en el mundo de la programación (y después también) muchos problemas se solucionan preguntándose "¿Dónde lo definiste?" Y "¿dónde lo estás consumiendo?<br />
-La respuesta puede ser "Ahh... no lo definí", o "no lo estoy consumiendo".<br />
-Como explicamos en el capítulo anterior, nosotros ya tenemos definido el owlcarousel2, si bien no lo definimos literalmente nosotros, levantamos la librería **.js** de owlcarousel2 con `<link...>` y ahí adentro está definida la función `owlCarousel()`, también definimos todas las clases/estilos que va a usar nuestro carrusel cuando levantamos el **.css**.
+Cuando uno recién comienza en el mundo de la programación (y después también) muchos problemas se solucionan preguntándose “¿dónde está definido?” y “¿dónde se está consumiendo?<br />
+La respuesta puede ser “Ah…no lo definí”, o “no lo estoy consumiendo”.<br />
+Como explicamos en el capítulo anterior, nosotros ya tenemos definido el Owl Carousel, si bien no lo definimos literalmente nosotros, levantamos la librería **.js** de Owl Carousel2   con `<link...>` y ahí adentro está definida la función `owlCarousel()`, también definimos todas las clases/estilos que va a usar nuestro carrusel cuando levantamos el **.css**.
 
 De manera que ahora solo queda consumirlo.
 
 Para consumirlo tenemos que:
 
-1-	Colocar el contenido dentro de un div, con la clase`owl-carousel`.
+1-	Colocar el contenido dentro de un div, con la clase: `owl-carousel`.
 
 Por ejemplo:
 ```
@@ -37,9 +37,9 @@ Por ejemplo:
   );
 });
 ```
+En esta parte hay algunos detalles para explicar, cuando yo coloco el siguiente código, estoy solicitando que lo que está dentro se ejecute cuando la página se termine de leer.<br />
+Es una buena práctica colocar esta función para postergar la ejecución del carrusel, si no estuviera se retrasaría la carga de toda la web hasta que no se termine de procesar:
 
-En esta parte hay algunos detalles para explicar, cuando yo coloco el siguiente código, entonces estoy diciendo que lo que está dentro se va a ejecutar cuando la página se termine de leer.<br />
-Es una buena práctica colocar esta función para postergar la ejecución del carrusel, si no estuviera se retrasaría la carga de toda la web hasta que no se termine de procesar
 ```
 $(document).ready(function(){
 // Se ejecuta después de que se leyó toda la página.
@@ -47,8 +47,7 @@ $(document).ready(function(){
 ```
 
 Luego consumimos el carrusel, para esto **seleccionamos** el div con la clase `owl-carousel` escribiendo `$(".owl-carousel")` y luego le asignamos la función`.owlCarousel()`.<br />
-Para saber más sobre selectores con Jquery les dejo el siguiente [link](https://api.jquery.com/all-selector/).
-Véase que los selectores son muy similares a los que vimos en css.
+Debería quedar así:
 
 ```
   $(".owl-carousel").owlCarousel();
@@ -62,6 +61,7 @@ Dentro de los paréntesis se colocan los parámetros que queremos configurar al 
     autoplayTimeout: 1000,
 });
 ```
+Para saber más sobre selectores con Jquery les dejo el siguiente [link](https://api.jquery.com/all-selector/). Véase que los selectores son muy similares a los que vimos en css.
 ## En nuestro porfolio.
 
 Finalmente a modo de ejemplo vamos a colocar el siguiente carrusel debajo del `<nav>` del archivo index.html:
