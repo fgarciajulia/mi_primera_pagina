@@ -25,6 +25,8 @@ Después de seguir el paso a paso nos debería quedar algo así:
 6.	[Colocamos estilo al menú](https://fgarciajulia.github.io/mi_primera_pagina/estilo-nav)
 7.	[Instalación de carrousel](https://fgarciajulia.github.io/mi_primera_pagina/owlcarousel2)
 8.	["Consumimos" el carrousel](https://fgarciajulia.github.io/mi_primera_pagina/consumo-carrusel)
+9.	[Cómo instalar una font de iconos (fontawesome)](https://fgarciajulia.github.io/mi_primera_pagina/fontawesome)
+10.	[Creación de un footer](https://fgarciajulia.github.io/mi_primera_pagina/footer)
 
 ### Referencias
 

@@ -76,7 +76,7 @@ Finalmente a modo de ejemplo vamos a colocar el siguiente carrusel debajo del `<
             <div class="intro-text">
               <span class="name">Construcción</span>
               <hr class="star-light">
-              <span class="skills">Web Developer - Graphic Artist - User Experience Designer</span>
+              <span class="skills">Desarrollador Web - Experiencia de usuario - Diseño multimedial</span>
             </div>
           </div>
         </div>
@@ -88,7 +88,7 @@ Finalmente a modo de ejemplo vamos a colocar el siguiente carrusel debajo del `<
             <div class="intro-text">
               <span class="name">Oficinista</span>
               <hr class="star-light">
-              <span class="skills">Web Developer - Graphic Artist - User Experience Designer</span>
+              <span class="skills">Desarrollador Web - Experiencia de usuario - Diseño multimedial</span>
             </div>
           </div>
         </div>
@@ -100,7 +100,7 @@ Finalmente a modo de ejemplo vamos a colocar el siguiente carrusel debajo del `<
             <div class="intro-text">
               <span class="name">Policía</span>
               <hr class="star-light">
-              <span class="skills">Web Developer - Graphic Artist - User Experience Designer</span>
+              <span class="skills">Desarrollador Web - Experiencia de usuario - Diseño multimedial</span>
             </div>
           </div>
         </div>
@@ -174,5 +174,5 @@ Y ahora sí, definido y consumido.
 <div class="Grid">
     <a href="https://fgarciajulia.github.io/mi_primera_pagina/owlcarousel2" class="my-btn anterior">Anterior</a>
     <a href="https://fgarciajulia.github.io/mi_primera_pagina" class="my-btn home">Home</a>
-    <a href="https://fgarciajulia.github.io/mi_primera_pagina" class="my-btn siguiente">Siguiente</a>
+    <a href="https://fgarciajulia.github.io/mi_primera_pagina/fontawesome" class="my-btn siguiente">Siguiente</a>
 </div>
