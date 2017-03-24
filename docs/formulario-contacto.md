@@ -72,8 +72,8 @@ Hay muchas cosas que quizás no lleguen a entender del todo, personalmente siemp
 Con javascript vamos a hacer todas las acciones "del lado del cliente" o frontEnd, entre otras estas acciones son las de validar que todos los campos obligartoios tengan contenido, que se envie (mediante la funcion ajax) los datos del forulario al backend (archivo contact_me.php que todavia no creamos), que salgan mensajes de error cuando algo no esta bien.
 
 Vamos a descargar los siguientes archivos:
- [jqBootstrapValidation.js](https://fgarciajulia.github.io/mi_primera_pagina/jqBootstrapValidation.js)
- [contact_me.js](https://fgarciajulia.github.io/mi_primera_pagina/contact_me.js)
+- [jqBootstrapValidation.js](https://fgarciajulia.github.io/mi_primera_pagina/jqBootstrapValidation.js)
+- [contact_me.js](https://fgarciajulia.github.io/mi_primera_pagina/contact_me.js)
  
 Estos contienen muchas de las funciones que mencionamos. Se podría decir que en el primero definimos algunas funciones y con el segundo las consumimos.
 
