@@ -1,13 +1,13 @@
 # 11. Formulario de contacto
 
-Para colocar un formulario de contacto se requieren varios pasos, en esta operación no solo estamos mostrando contenido, sino que también debemos recolectar el contenido que ingresa el usuario, para poder enviarlo por mail.
+Para colocar un formulario de contacto se requieren varios pasos, en esta ocación no solo estamos mostrando contenido, sino que también debemos recolectar el contenido que ingresa el usuario, para poder enviarlo por mail, redactar el mail y finalmente enviarlo, entre otras multiples sub tareas.
 
 A modo introductorio, para que que tengan una idea de las etiquetas html que vamos a usar, pueden ver [este video](https://www.youtube.com/watch?v=Ppj5IOBU73A) desde 2:30 min. hasta el 9:00min. 
 Lo importante de acá son las etiquetas `<form>``<input type="text" placeholder="">` `<textarea>`, el hecho de que los `id` no deben repetirse y deben ser los mismos que se van a usar en el archivo php/contacto.php (del que todavía no hablamos).
 
 ## HTML
 
-En nuestro archivo index.html, antes de comenzar el footer vamos a copiar el siguiente código:
+En nuestro archivo index.html, antes de comenzar el footer vamos a copiar el siguiente código que contiene el formular:
 
 ```
   <section id="contact">
@@ -69,15 +69,16 @@ Hay muchas cosas que quizás no lleguen a entender del todo, personalmente siemp
 
 ## JS
 
-Con javascript vamos a hacer todas las acciones "del lado del cliente" o frontEnd, entre otras estas acciones son las de validar que todos los campos obligartoios tengan contenido, que se envie (mediante la funcion ajax) los datos del forulario al backend (archivo contact_me.php que todavia no creamos), que salgan mensajes de error cuando algo no esta bien.
+Con javascript vamos a hacer todas las acciones "del lado del cliente" o frontEnd, algunas de estas acciones son las de validar que todos los campos obligartoios tengan contenido, que se envie (mediante la funcion ajax) los datos del forulario al backend (archivo contact_me.php que todavia no creamos), que salgan mensajes de error cuando algo no esta bien etc.
 
 Vamos a descargar los siguientes archivos:
 - [jqBootstrapValidation.js](https://fgarciajulia.github.io/mi_primera_pagina/jqBootstrapValidation.js)
 - [contact_me.js](https://fgarciajulia.github.io/mi_primera_pagina/contact_me.js)
  
-Estos contienen muchas de las funciones que mencionamos. Se podría decir que en el primero definimos algunas funciones y con el segundo las consumimos.
+> Estos contienen muchas de las funciones que mencionamos. Se podría decir que en el primero definimos algunas funciones y con el segundo las consumimos.<br />
+> El segundo archivo es mas amigable para el que no tiene tanta experiencia en js. Primero recolecta los datos, luego los manda al archivo `././mail/contact_me.php` por medio de la funcion [ajax](https://www.w3schools.com/xml/ajax_intro.asp), el servidor le devuelve una respuesta exitosa `success` o un `error`, y segun lo que devolvió el mensaje que le muestra al usuario.
 
-los colocamos en la carpeta `js` y lo vamos a incorporar a nuestro proyecto como ya lo hicimos con otros archivos. Por debajo de `bootstrap.min.js`
+Los colocamos en la carpeta `js` y lo vamos a incorporar a nuestro proyecto como ya lo hicimos con otros archivos. Por debajo de `bootstrap.min.js`
 
 ````
   <script src="js/jqBootstrapValidation.js"></script>
@@ -88,9 +89,9 @@ los colocamos en la carpeta `js` y lo vamos a incorporar a nuestro proyecto como
 
 Vamos a crear una carpeta nueva, que se llame `mail` y adentro creamos un archivo que se llame `contact_me.php`
 
-PHP es un lenguaje que es interpretado por el servidor donde esta alojada la web, para (en este caso) tomar todos los datos del formulario y enviarlos por mail.
+PHP es un lenguaje que es interpretado por el servidor donde esta alojada la web, en este caso para tomar todos los datos del formulario y enviarlos por mail.
 
-Si todo funciona correctamente, cuando suban esta web a un hosting el server se encargará de enviar el mail, por ahora, desde tu compu los mensajes no saldrán.
+> Si todo funciona correctamente, cuando suban esta web a un hosting el server se encargará de enviar el mail, por ahora, desde tu compu los mensajes no saldrán. Y aparecerá un mensaje que dice "parece que mi servidor de correo no responde", que fue el que "configuramos" en la funcion ajax que mencionamos anteriormente.
 
 Siguiendo con nuestro proyecto, en el archivo que acabamos de crear con extencion `.php`, vamos a colocar el siguiente código:
 ```
@@ -112,15 +113,20 @@ $phone = strip_tags(htmlspecialchars($_POST['phone']));
 $message = strip_tags(htmlspecialchars($_POST['message']));
 	
 // Crea el mensaje que va a enviar
-$to = 'suNombre@suDominio.com'; //Añada su dirección de correo electrónico entre el '' reemplazando suNombre@suDominio.com - Aquí es donde el formulario enviará un mensaje.
+$to = 'suNombre@suDominio.com'; //Añada su dirección de correo electrónico entre el '' reemplazando suNombre@suDominio.com - Aquí es donde el formulario enviará un mensaje. Puede ser @gmail.com
 $email_subject = "formulario web enviado por:  $name";
 $email_body = "Ha recibido un nuevo mensaje de su formulario de contacto del sitio web.\n\n"."Aquí están los detalles:\n\nNombre: $name\n\nEmail: $email_address\n\nTeléfono: $phone\n\nMensaje:\n$message";
-$headers = "From: noresponder@suDominio.com\n"; Esta es la dirección de correo electrónico de la que se generará el mensaje. Recomendamos usar algo como noresponder@suDominio.com
+$headers = "From: noresponder@suDominio.com\n";// Esta es la dirección de correo electrónico de la que se generará el mensaje. DEBE TENER EL DOMINIO DONDE ESTA ALOJADA LA WEB
 $headers .= "Reply-To: $email_address";	
 mail($to,$email_subject,$email_body,$headers);
 return true;			
 ?>
 ```
+
+En la primera parte revisa que los campos obligatorios no esten vacios, luego elimina caracteres como `"` o `'` del mensaje para evitar errores, crea el mail y por ultimo con la funcion mail() lo envia.
+
+> IMPORTANTE: Como ya dijimos necesitamos subir la web a un hosting para que el mail se envíe, y debemos cambiar el mail `to` con el correo de destinto, y el `From` con el mail de origen, EL MAIL DE ORIGEN DEBE TENER EL DOMINIO EN DONDE ESTA ALOJADA LA WEB.
+
 
 ## CSS
 
@@ -317,9 +323,13 @@ fieldset[disabled] .btn-success.active {
 }
 ```
 
+# Una pequeña ayuda en el siguiente capitulo
+
+En el [capítulo siguiente](https://fgarciajulia.github.io/mi_primera_pagina/atajo) dejaré un zip con todo lo realizado hasta ahora para que puedan descargarlo y verificar si les falto algo.
+
 
 <div class="Grid">
     <a href="https://fgarciajulia.github.io/mi_primera_pagina/fontawesome" class="my-btn anterior">Anterior</a>
     <a href="https://fgarciajulia.github.io/mi_primera_pagina" class="my-btn home">Home</a>
-    <a href="https://fgarciajulia.github.io/mi_primera_pagina" class="my-btn siguiente">Siguiente</a>
+    <a href="https://fgarciajulia.github.io/mi_primera_pagina/atajo" class="my-btn siguiente">Siguiente</a>
 </div>

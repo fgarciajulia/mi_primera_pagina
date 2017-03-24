@@ -18,19 +18,19 @@ Vamos a copiar y pegar el siguiente código justo **antes** de comenzar a llamar
                 <h3>Mis redes</h3>
                 <ul class="list-inline">
                     <li>
-                        <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
+                        <a  target="_blank" href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
                     </li>
                     <li>
-                        <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-google-plus"></i></a>
+                        <a  target="_blank" href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-google-plus"></i></a>
                     </li>
                     <li>
-                        <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
+                        <a  target="_blank" href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
                     </li>
                     <li>
-                        <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin"></i></a>
+                        <a  target="_blank" href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin"></i></a>
                     </li>
                     <li>
-                        <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-dribbble"></i></a>
+                        <a  target="_blank" href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-dribbble"></i></a>
                     </li>
                 </ul>
             </div>

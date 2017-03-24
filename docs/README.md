@@ -27,7 +27,8 @@ Después de seguir el paso a paso nos debería quedar algo así:
 8.	["Consumimos" el carrousel](https://fgarciajulia.github.io/mi_primera_pagina/consumo-carrusel)
 9.	[Cómo instalar una font de iconos (fontawesome)](https://fgarciajulia.github.io/mi_primera_pagina/fontawesome)
 10.	[Creación de un footer](https://fgarciajulia.github.io/mi_primera_pagina/footer)
-11.	[Formulario de contacto.](https://fgarciajulia.github.io/mi_primera_pagina/formulario-contacto)
+11.	[Formulario de contacto](https://fgarciajulia.github.io/mi_primera_pagina/formulario-contacto)
+11.	[Un atajo para descargar](https://fgarciajulia.github.io/mi_primera_pagina/atajo)
 
 ### Referencias
 
