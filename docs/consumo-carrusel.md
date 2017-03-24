@@ -117,6 +117,36 @@ Descargamos estas 3 imágenes y las colocamos en la carpeta `/img:`<br />
 Por último en main.css colocamos los siguientes estilos:
 
 ```
+/* Generales */
+
+body {
+  overflow-x: hidden;
+}
+p {
+  font-size: 20px;
+}
+p.small {
+  font-size: 16px;
+}
+a,
+a:hover,
+a:focus,
+a:active,
+a.active {
+  color: #18BC9C;
+  outline: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
 /* .header */
 .header {
   text-align: center;
@@ -157,7 +187,8 @@ Por último en main.css colocamos los siguientes estilos:
 ```
 Perfecto! ya terminamos... definimos el carrusel y lo consumimos... Lo consumimos, ¿verdad?
 
-Si no lo hiciste deberías añadir el siguiente código en `main.js`
+Si estás teniendo algún error y el carrusel no funciona como debería, tal vez sea que no lo estas consumiendo. Si es así deberías añadir el siguiente código en `main.js`:
+
 ```
  $(document).ready(function(){
   $(".owl-carousel").owlCarousel(

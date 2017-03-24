@@ -1,4 +1,4 @@
-# 9. Cómo utilizar una font de iconos (fontawesome)
+# 9. Cómo utilizar una font de iconos (Font Awesome)
 
 Por cuarta vez voy a usar la frase "Lo primero que hacemos es entrar a la página oficial e ir a get start"
 
@@ -8,7 +8,7 @@ Vamos a descargar hacemos click en --> No thanks, just download.
 
 Una vez que tenemos el zip en nuestra pc lo abrimos y vamos a encontrar (como siempre) unas carpetas similares a las nuestras.
 
-Copiamos el contenido del `css`a nuestra carpeta `css`, y lo mismo con `font`.
+Copiamos el contenido del `css` a nuestra carpeta `css`, y lo mismo con `font`.
 
 Véase que ya teníamos los archivos de fonts de bootstrap. Estos archivos no los vamos a usar, si quieren pueden borrarlos, y solo dejar los nuevos que acabamos de descargar.
 
@@ -19,7 +19,7 @@ La carpeta `fonts` está en plural, si se llama `font` no va a encontrar los arc
 ## Cómo los definimos?
 
 Una vez que tenemos los archivos dentro del proyecto, hay que importarlo, para que quede definido dentro de la web.<br />
-Como ya lo hicimos en otras 4 ocaciones, colocamos en una linea nueva justo arriba de main.css el siguiente codigo:
+Como ya lo hicimos en otras 4 ocasiones, colocamos en una línea nueva justo arriba de main.css el siguiente código:
 
 ```
   <link href="css/font-awesome.min.css" rel="stylesheet">
@@ -33,13 +33,13 @@ El truco está en colocar por ejemplo los siguientes estilos:
 
 ```
 unaClase:after { //:after significa que vendrá luego del selector
-  content: "\f005"; // codigo del icono
+  content: "\f005"; // código del icono
   font-family: FontAwesome; 
   display: inline-block;
   position: relative;
 }
 ```
-En nuestro carrusel podríamos poner uno ( yo ya lo tenía pensado, y por eso pusimos algunas clases de más ).<br />
+En nuestro carrusel podríamos poner uno (yo ya lo tenía pensado, y por eso pusimos algunas clases de más).<br />
 Colocaremos lo siguiente en nuestro archivo main.css luego del conjunto de estilos que aplica a la clase `.header`.
 
 ```
@@ -77,7 +77,7 @@ hr.star-primary:after {
   color: #2C3E50;
 }
 ```
-Quizás este es un ejemplo complicado para arrancar. En el próximo capitulo (en el footer) vamos a consumir estos [iconos](http://fontawesome.io/icons/) para las redes sociales, y ahí será más sencillo, porque se utilizan las clases por defecto que trae Font Awesome.
+Quizás este es un ejemplo complicado para arrancar. En el próximo capítulo (en el footer) vamos a consumir estos [iconos](http://fontawesome.io/icons/) para las redes sociales, y ahí será más sencillo, porque se utilizan las clases por defecto que trae Font Awesome.
 
 
 <div class="Grid">

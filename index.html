@@ -93,48 +93,108 @@
       </div>
     </div>
   </div>
-  
-<footer class="text-center footer-style">
+  <section id="contacto">
     <div class="container">
-        <div class="row">
-            <div class="col-md-4 footer-col">
-                <h3>Dirección</h3>
-                <p>
-                    CABA - Argentina <br />
-                    carrasco 400
-                </p>
-            </div>
-            <div class="col-md-4 footer-col">
-                <h3>Mis redes</h3>
-                <ul class="list-inline">
-                    <li>
-                        <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
-                    </li>
-                    <li>
-                        <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-google-plus"></i></a>
-                    </li>
-                    <li>
-                        <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
-                    </li>
-                    <li>
-                        <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin"></i></a>
-                    </li>
-                    <li>
-                        <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-dribbble"></i></a>
-                    </li>
-                </ul>
-            </div>
-            <div class="col-md-4 footer-col">
-                <h3>Trabajo freelance</h3>
-                <p>Tengo más de X años de experiencia en maquetación web y me apasiona lo que hago!.</p>
-            </div>
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2>Contacteme</h2>
+          <hr class="star-primary">
         </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2">
+          <!-- Para configurar la dirección de correo electrónico del formulario de contacto, vaya a mail / contact_me.php y actualice la dirección de correo electrónico en el archivo PHP en la línea 19. -->
+          <form name="sentMessage" id="contactForm" novalidate="" class="error">
+            <div class="row control-group">
+              <div class="form-group col-xs-12 floating-label-form-group controls floating-label-form-group-with-value">
+                <label>Nombre</label>
+                <input type="text" class="form-control" placeholder="Nombre" id="name" required="" data-validation-required-message="Por favor, ingrese su name."
+                  aria-invalid="false">
+                <p class="help-block text-danger"></p>
+              </div>
+            </div>
+            <div class="row control-group error">
+              <div class="form-group col-xs-12 floating-label-form-group controls floating-label-form-group-with-value">
+                <label>Email</label>
+                <input type="email" class="form-control" placeholder="Email" id="email" required="" data-validation-required-message="Por favor, ingrese su email address."
+                  aria-invalid="true">
+                <p class="help-block text-danger">
+                  <ul role="alert">
+                    <li>Email no válido</li>
+                  </ul>
+                </p>
+              </div>
+            </div>
+            <div class="row control-group">
+              <div class="form-group col-xs-12 floating-label-form-group controls floating-label-form-group-with-value">
+                <label>Número de teléfono</label>
+                <input type="tel" class="form-control" placeholder="Número de teléfono" id="phone" required="" data-validation-required-message="Por favor, ingrese su núnmero de teléfono."
+                  aria-invalid="false">
+                <p class="help-block text-danger"></p>
+              </div>
+            </div>
+            <div class="row control-group">
+              <div class="form-group col-xs-12 floating-label-form-group controls floating-label-form-group-with-value">
+                <label>Mensaje</label>
+                <textarea rows="5" class="form-control" placeholder="Mensaje" id="message" required="" data-validation-required-message="Por favor, ingrese un mensaje."
+                  aria-invalid="false"></textarea>
+                <p class="help-block text-danger"></p>
+              </div>
+            </div>
+            <br>
+            <div id="success"></div>
+            <div class="row">
+              <div class="form-group col-xs-12">
+                <button type="submit" class="btn btn-success btn-lg">Enviar</button>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
     </div>
-</footer>
+  </section>
+  <footer class="text-center footer-style">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4 footer-col">
+          <h3>Dirección</h3>
+          <p>
+            CABA - Argentina <br /> Carrasco 400
+          </p>
+        </div>
+        <div class="col-md-4 footer-col">
+          <h3>Mis redes</h3>
+          <ul class="list-inline">
+            <li>
+              <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
+            </li>
+            <li>
+              <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-google-plus"></i></a>
+            </li>
+            <li>
+              <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
+            </li>
+            <li>
+              <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin"></i></a>
+            </li>
+            <li>
+              <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-dribbble"></i></a>
+            </li>
+          </ul>
+        </div>
+        <div class="col-md-4 footer-col">
+          <h3>Trabajo freelance</h3>
+          <p>Tengo más de X años de experiencia en maquetación web y me apasiona lo que hago!.</p>
+        </div>
+      </div>
+    </div>
+  </footer>
   <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
   <script src="js/jquery.min.js"></script>
   <!-- Include all compiled plugins (below), or include individual files as needed -->
   <script src="js/bootstrap.min.js"></script>
+  <script src="js/jqBootstrapValidation.js"></script>
+  <script src="js/contact_me.js"></script>
   <script src="js/owl.carousel.min.js"></script>
   <script src="js/main.js"></script>
 </body>
