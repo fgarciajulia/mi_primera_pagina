@@ -32,7 +32,7 @@ En nuestro archivo index.html, antes de comenzar el footer vamos a copiar el sig
             <div class="row control-group">
               <div class="form-group col-xs-12 floating-label-form-group controls">
                 <label>Email</label>
-                <input type="email" class="form-control" placeholder="Email Address" id="email" required data-validation-required-message="Por favor, ingrese su email address.">
+                <input type="email" class="form-control" placeholder="Email" id="email" required data-validation-required-message="Por favor, ingrese su email address.">
                 <p class="help-block text-danger"></p>
               </div>
             </div>
