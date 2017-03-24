@@ -220,7 +220,30 @@ footer .footer-below {
   background-color: #233140;
 }
 
+/* section */
+
+section {
+  padding: 100px 0;
+}
+section h2 {
+  margin: 0;
+  font-size: 3em;
+}
+section.success {
+  background: #18BC9C;
+  color: white;
+}
+@media (max-width: 767px) {
+  section {
+    padding: 75px 0;
+  }
+  section.first {
+    padding-top: 75px;
+  }
+}
+
 /* form */
+
 
 .floating-label-form-group {
   position: relative;
@@ -385,4 +408,7 @@ fieldset[disabled] .btn-success.active {
 .btn:active,
 .btn.active {
   outline: none;
+}
+ul[role=alert] {
+    color: #ff8200;
 }

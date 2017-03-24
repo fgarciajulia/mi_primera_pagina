@@ -49,7 +49,7 @@ $(function () {
                     $('#success').html("<div class='alert alert-danger'>");
                     $('#success > .alert-danger').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
                         .append("</button>");
-                    $('#success > .alert-danger').append("<strong>Sorry " + firstName + ", it seems that my mail server is not responding. Please try again later!");
+                    $('#success > .alert-danger').append("<strong>Lo siento " + firstName + ", parece que mi servidor de correo no responde. ¡Por favor, inténtelo de nuevo más tarde!");
                     $('#success > .alert-danger').append('</div>');
                     //clear all fields
                     $('#contactForm').trigger("reset");
@@ -70,16 +70,4 @@ $(function () {
 // When clicking on Full hide fail/success boxes
 $('#name').focus(function () {
     $('#success').html('');
-});
-
-
-// Floating label headings for the contact form
-$(function () {
-    $("body").on("input propertychange", ".floating-label-form-group", function (e) {
-        $(this).toggleClass("floating-label-form-group-with-value", !!$(e.target).val());
-    }).on("focus", ".floating-label-form-group", function () {
-        $(this).addClass("floating-label-form-group-with-focus");
-    }).on("blur", ".floating-label-form-group", function () {
-        $(this).removeClass("floating-label-form-group-with-focus");
-    });
 });

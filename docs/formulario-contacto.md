@@ -10,7 +10,7 @@ Lo importante de acá son las etiquetas `<form>``<input type="text" placeholder=
 En nuestro archivo index.html, antes de comenzar el footer vamos a copiar el siguiente código:
 
 ```
-  <section id="contacto">
+  <section id="contact">
     <div class="container">
       <div class="row">
         <div class="col-lg-12 text-center">
@@ -21,40 +21,32 @@ En nuestro archivo index.html, antes de comenzar el footer vamos a copiar el sig
       <div class="row">
         <div class="col-lg-8 col-lg-offset-2">
           <!-- To configure the contact form email address, go to mail/contact_me.php and update the email address in the PHP file on line 19. -->
-          <form name="sentMessage" id="contactForm" novalidate="" class="error">
+          <form name="sentMessage" id="contactForm" novalidate>
             <div class="row control-group">
-              <div class="form-group col-xs-12 floating-label-form-group controls floating-label-form-group-with-value">
-                <label>Nombre</label>
-                <input type="text" class="form-control" placeholder="Nombre" id="name" required="" data-validation-required-message="Por favor, ingrese su name."
-                  aria-invalid="false">
+              <div class="form-group col-xs-12 floating-label-form-group controls">
+                <label>Name</label>
+                <input type="text" class="form-control" placeholder="Nombre" id="name" required data-validation-required-message="Por favor, ingrese su name.">
                 <p class="help-block text-danger"></p>
               </div>
             </div>
-            <div class="row control-group error">
-              <div class="form-group col-xs-12 floating-label-form-group controls floating-label-form-group-with-value">
+            <div class="row control-group">
+              <div class="form-group col-xs-12 floating-label-form-group controls">
                 <label>Email</label>
-                <input type="email" class="form-control" placeholder="Email" id="email" required="" data-validation-required-message="Por favor, ingrese su email address."
-                  aria-invalid="true">
-                <p class="help-block text-danger">
-                  <ul role="alert">
-                    <li>Email no válido</li>
-                  </ul>
-                </p>
-              </div>
-            </div>
-            <div class="row control-group">
-              <div class="form-group col-xs-12 floating-label-form-group controls floating-label-form-group-with-value">
-                <label>Número de teléfono</label>
-                <input type="tel" class="form-control" placeholder="Número de teléfono" id="phone" required="" data-validation-required-message="Por favor, ingrese su núnmero de teléfono."
-                  aria-invalid="false">
+                <input type="email" class="form-control" placeholder="Email Address" id="email" required data-validation-required-message="Por favor, ingrese su email address.">
                 <p class="help-block text-danger"></p>
               </div>
             </div>
             <div class="row control-group">
-              <div class="form-group col-xs-12 floating-label-form-group controls floating-label-form-group-with-value">
+              <div class="form-group col-xs-12 floating-label-form-group controls">
+                <label>Número de teléfono</label>
+                <input type="tel" class="form-control" placeholder="Número de teléfono" id="phone" required data-validation-required-message="Por favor, ingrese su número de teléfono.">
+                <p class="help-block text-danger"></p>
+              </div>
+            </div>
+            <div class="row control-group">
+              <div class="form-group col-xs-12 floating-label-form-group controls">
                 <label>Mensaje</label>
-                <textarea rows="5" class="form-control" placeholder="Mensaje" id="message" required="" data-validation-required-message="Por favor, ingrese un mensaje."
-                  aria-invalid="false"></textarea>
+                <textarea rows="5" class="form-control" placeholder="Mensaje" id="message" required data-validation-required-message="Por favor, ingrese un mensaje."></textarea>
                 <p class="help-block text-danger"></p>
               </div>
             </div>
@@ -133,6 +125,30 @@ return true;
 ## CSS
 
 ```
+/* section */
+
+section {
+  padding: 100px 0;
+}
+section h2 {
+  margin: 0;
+  font-size: 3em;
+}
+section.success {
+  background: #18BC9C;
+  color: white;
+}
+@media (max-width: 767px) {
+  section {
+    padding: 75px 0;
+  }
+  section.first {
+    padding-top: 75px;
+  }
+}
+ul[role=alert] {
+    color: #ff8200;
+}
 /* form */
 
 .floating-label-form-group {
