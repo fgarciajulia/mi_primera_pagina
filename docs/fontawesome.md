@@ -10,16 +10,16 @@ Una vez que tenemos el zip en nuestra pc lo abrimos y vamos a encontrar (como si
 
 Copiamos el contenido del `css` a nuestra carpeta `css`, y lo mismo con `font`.
 
-Véase que ya teníamos los archivos de fonts de bootstrap. Estos archivos no los vamos a usar, si quieren pueden borrarlos, y solo dejar los nuevos que acabamos de descargar.
+Véase que ya teníamos los archivos de fonts de Bootstrap. Estos archivos no los vamos a usar, si quieren pueden borrarlos, y solo dejar los nuevos que acabamos de descargar.
 
 ### Atención
 
 La carpeta `fonts` está en plural, si se llama `font` no va a encontrar los archivos.
 
-## Cómo los definimos?
+## ¿Cómo definimos Font Awesome?
 
-Una vez que tenemos los archivos dentro del proyecto, hay que importarlo, para que quede definido dentro de la web.<br />
-Como ya lo hicimos en otras 4 ocasiones, colocamos en una línea nueva justo arriba de main.css el siguiente código:
+Una vez que tenemos los archivos dentro de nuestro proyecto, hay que dejar registro en nuestro código de que para nuestra web vamos a usar iconos que serán tomados de esta librería, a esta acción se le denomina “importar”. Una vez que importamos Font Awesome en nuestro código podemos decir que ya se encuentra definido dentro de nuestra web.<br />
+Como ya lo hicimos en otras cuatro ocasiones, colocamos en una línea nueva justo arriba de main.css el siguiente código:
 
 ```
   <link href="css/font-awesome.min.css" rel="stylesheet">

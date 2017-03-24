@@ -45,19 +45,19 @@ Vamos a copiar y pegar el siguiente código justo **antes** de comenzar a llamar
 
 ## ¿Qué significa todo este código que copiamos?
 
-Lo primero que hicimos es abrir la etiqueta `<footer>`, esta etiqueta no es muy distinta al div, es una buena práctica usarla para determinar que es el footer, pero si usáramos un div no cambiaría el aspecto de la web.<br />
-A esta etiqueta le colocamos la clase `text-center` que como bien indica la [documentación](http://getbootstrap.com/css/#type-alignment),lo que hace es centrar el texto de todo lo que este dentro.
+Lo primero que hicimos es abrir la etiqueta `<footer>`, esta etiqueta no es muy distinta al div, es una buena práctica usarla para determinar qué es el footer, pero si usáramos un div no cambiaría el aspecto de la web.<br />
+A esta etiqueta le colocamos la clase `text-center` que como bien indica la [documentación](http://getbootstrap.com/css/#type-alignment),lo que hace es centrar el texto de todo lo que esté dentro.
 <br />
 También le asignamos la clase `footer-style`, que luego la usaremos para asignarle un color de fondo y un padding.
 
-Abrimos un `div` con la clase `container` esta clase como ya explicamos en el [capítulo de bootstrap](https://fgarciajulia.github.io/mi_primera_pagina/acerca-bootstrap) le da un ancho determinado y responsive al contenido que hay dentro.
+Abrimos un `div` con la clase `container`, esta clase como ya explicamos en el [capítulo de Bootstrap](https://fgarciajulia.github.io/mi_primera_pagina/acerca-bootstrap) le da un ancho determinado y responsive al contenido que hay dentro.
 
-Luego abrimos 3 columnas 'col-md-4' que también explicamos en el [capítulo de bootstrap](https://fgarciajulia.github.io/mi_primera_pagina/acerca-bootstrap) y añadimos una clase `footer-col` que luego le asignaremos estilos.
+Luego abrimos 3 columnas 'col-md-4' que también explicamos en el [capítulo de Bootstrap](https://fgarciajulia.github.io/mi_primera_pagina/acerca-bootstrap) y añadimos una clase `footer-col` a la que luego le asignaremos estilos.
 
-El concepto de `container`, `conteiner-fluid` y las columnas de bootstrap es lógico que no lo entiendan en su totalidad al principio, o quizás se piensen que lo entendieron perfecto pero cuando lo van a usar no reacciona como esperaban. Es normal, lleva tiempo aprenderlo. Les vuelvo a dejar la [documentación oficial](http://getbootstrap.com/css/#overview-container).
+El concepto de `container`, `container-fluid` y las columnas de Bootstrap es lógico que no lo entiendan en su totalidad al principio, o quizás piensen que lo entendieron perfecto pero cuando lo van a usar no reacciona como esperaban. Es normal, lleva tiempo aprenderlo. Les vuelvo a dejar la [documentación oficial](http://getbootstrap.com/css/#overview-container).
 
-Otro elemento nuevo es el de los iconos que los llamamos `<i class="fa fa-fw fa-facebook"></i>`, estos los instalamos en el [capitulo anterior](https://fgarciajulia.github.io/mi_primera_pagina/fontawesome), en este caso estamos usando las clases por defecto, y cambiar el icono es tan fácil como cambiar la clase.<br />
-Pueden ver que icono le corresponde a cada icono en la [página oficial](http://fontawesome.io/icons/), por ejemplo en el que copiamos recién, la clase es `fa-facebook` y fue sacada de [acá](http://fontawesome.io/icon/facebook/).
+Otro elemento nuevo que se añade es el de los iconos. Para que aparezcan debemos como siempre llamarlos:`<i class="fa fa-fw fa-facebook"></i>`.Todos estos los instalamos en el [capitulo anterior](https://fgarciajulia.github.io/mi_primera_pagina/fontawesome), una vez instalados lo que hacemos es usar las clases por defecto, y cambiar el icono es tan fácil como cambiar la clase.<br />
+Pueden ver qué clase le corresponde a cada icono en la [página oficial](http://fontawesome.io/icons/), por ejemplo en el que copiamos recién, la clase es `fa-facebook` y fue sacado de [acá](http://fontawesome.io/icon/facebook/).
 
 ## Añadimos algo de estilo
 

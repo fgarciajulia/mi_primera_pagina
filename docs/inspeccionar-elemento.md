@@ -21,7 +21,7 @@ Ya que estamos les paso un link donde pueden ver alguna de las cosas que se pued
 
 ## Otro problema muy común -> ¿Guardaste los archivos?
 
-Nos fijamos que hayamos guardado todos los archivos correctamente, si en el editor de texto al lado del nombre del archivo nos aparece un circulo, entonces quiere decir que NO está guardado.<br />
+Nos fijamos que hayamos guardado todos los archivos correctamente, si en el editor de texto al lado del nombre del archivo nos aparece un círculo, entonces quiere decir que NO está guardado.<br />
 Este es un error muy común. Sobre todo cuando uno trabaja con más de un archivo a la vez.<br />
 >La combinación de teclas para guardar el archivo es Control+S. o Command+S (para Mac).<br />
 

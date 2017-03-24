@@ -19,10 +19,10 @@ Lo vamos a colocar dentro de la etiqueta body, y vamos a borrar el "Hola mundo",
         <!-- Listado de items -->
         <ul class="nav navbar-nav navbar-right">
           <li class="page-scroll">
-            <a href="#">Portfolio</a>
+            <a href="#">Acerca de</a>
           </li>
           <li class="page-scroll">
-            <a href="#">Acerca de</a>
+            <a href="#">Portfolio</a>
           </li>
           <li class="page-scroll">
             <a href="#">Contacto</a>
