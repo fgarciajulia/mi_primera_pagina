@@ -17,7 +17,7 @@ A modo de ejemplo yo mandé a llamar el css de Bootstrap como bootstrap.min.cs y
 
 
 Ya que estamos les paso un link donde pueden ver alguna de las cosas que se pueden hacer en esta ventana, que va a ser nuestra mano derecha a la hora de programar web.<br />
-[Inspeccionar elemento](https://www.emezeta.com/articulos/10-trucos-para-google-chrome-developer-tools)<br />
+<a target="_blank" href="https://www.emezeta.com/articulos/10-trucos-para-google-chrome-developer-tools">Inspeccionar elemento</a>.
 
 ## Otro problema muy común -> ¿Guardaste los archivos?
 

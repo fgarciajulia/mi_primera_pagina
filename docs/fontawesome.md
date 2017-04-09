@@ -2,7 +2,7 @@
 
 Por cuarta vez voy a usar la frase "Lo primero que hacemos es entrar a la página oficial e ir a get start"
 
-[http://fontawesome.io/get-started/](http://fontawesome.io/get-started/)
+<a target="_blank" href="http://fontawesome.io/get-started/">http://fontawesome.io/get-started/</a>
 
 Vamos a descargar hacemos click en --> No thanks, just download.
 
@@ -77,7 +77,7 @@ hr.star-primary:after {
   color: #2C3E50;
 }
 ```
-Quizás este es un ejemplo complicado para arrancar. En el próximo capítulo (en el footer) vamos a consumir estos [iconos](http://fontawesome.io/icons/) para las redes sociales, y ahí será más sencillo, porque se utilizan las clases por defecto que trae Font Awesome.
+Quizás este es un ejemplo complicado para arrancar. En el próximo capítulo (en el footer) vamos a consumir estos <a target="_blank" href="http://fontawesome.io/icons/">iconos</a> para las redes sociales, y ahí será más sencillo, porque se utilizan las clases por defecto que trae Font Awesome.
 
 
 <div class="Grid">

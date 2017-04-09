@@ -1,6 +1,6 @@
 # 10. Creación de un footer
 
-Como se puede ver en el [resultado de nuestro proyecto](http://dacu.com.ar/mi_primera_pagina/) el footer tendrá 3 columnas, una para la dirección, otra para las redes sociales y otro para un dato personalizado.
+Como se puede ver en el <a target="_blank" href="http://dacu.com.ar/mi_primera_pagina/">resultado de nuestro proyecto</a> el footer tendrá 3 columnas, una para la dirección, otra para las redes sociales y otro para un dato personalizado.
 
 Vamos a copiar y pegar el siguiente código justo **antes** de comenzar a llamar los enlaces de **js**, en nuestro archivo `index.html`.
 ```
@@ -46,18 +46,18 @@ Vamos a copiar y pegar el siguiente código justo **antes** de comenzar a llamar
 ## ¿Qué significa todo este código que copiamos?
 
 Lo primero que hicimos es abrir la etiqueta `<footer>`, esta etiqueta no es muy distinta al div, es una buena práctica usarla para determinar qué es el footer, pero si usáramos un div no cambiaría el aspecto de la web.<br />
-A esta etiqueta le colocamos la clase `text-center` que como bien indica la [documentación](http://getbootstrap.com/css/#type-alignment),lo que hace es centrar el texto de todo lo que esté dentro.
+A esta etiqueta le colocamos la clase `text-center` que como bien indica la <a target="_blank" href="http://getbootstrap.com/css/#type-alignment">documentación</a>,lo que hace es centrar el texto de todo lo que esté dentro.
 <br />
 También le asignamos la clase `footer-style`, que luego la usaremos para asignarle un color de fondo y un padding.
 
-Abrimos un `div` con la clase `container`, esta clase como ya explicamos en el [capítulo de Bootstrap](https://fgarciajulia.github.io/mi_primera_pagina/acerca-bootstrap) le da un ancho determinado y responsive al contenido que hay dentro.
+Abrimos un `div` con la clase `container`, esta clase como ya explicamos en el <a target="_blank" href="https://fgarciajulia.github.io/mi_primera_pagina/acerca-bootstrap">capítulo de Bootstrap</a> le da un ancho determinado y responsive al contenido que hay dentro.
 
-Luego abrimos 3 columnas 'col-md-4' que también explicamos en el [capítulo de Bootstrap](https://fgarciajulia.github.io/mi_primera_pagina/acerca-bootstrap) y añadimos una clase `footer-col` a la que luego le asignaremos estilos.
+Luego abrimos 3 columnas 'col-md-4' que también explicamos en el <a target="_blank" href="https://fgarciajulia.github.io/mi_primera_pagina/acerca-bootstrap">capítulo de Bootstrap</a> y añadimos una clase `footer-col` a la que luego le asignaremos estilos.
 
-El concepto de `container`, `container-fluid` y las columnas de Bootstrap es lógico que no lo entiendan en su totalidad al principio, o quizás piensen que lo entendieron perfecto pero cuando lo van a usar no reacciona como esperaban. Es normal, lleva tiempo aprenderlo. Les vuelvo a dejar la [documentación oficial](http://getbootstrap.com/css/#overview-container).
+El concepto de `container`, `container-fluid` y las columnas de Bootstrap es lógico que no lo entiendan en su totalidad al principio, o quizás piensen que lo entendieron perfecto pero cuando lo van a usar no reacciona como esperaban. Es normal, lleva tiempo aprenderlo. Les vuelvo a dejar la <a target="_blank" href="http://getbootstrap.com/css/#overview-container">documentación oficial</a>.
 
-Otro elemento nuevo que se añade es el de los iconos. Para que aparezcan debemos como siempre llamarlos:`<i class="fa fa-fw fa-facebook"></i>`.Todos estos los instalamos en el [capitulo anterior](https://fgarciajulia.github.io/mi_primera_pagina/fontawesome), una vez instalados lo que hacemos es usar las clases por defecto, y cambiar el icono es tan fácil como cambiar la clase.<br />
-Pueden ver qué clase le corresponde a cada icono en la [página oficial](http://fontawesome.io/icons/), por ejemplo en el que copiamos recién, la clase es `fa-facebook` y fue sacado de [acá](http://fontawesome.io/icon/facebook/).
+Otro elemento nuevo que se añade es el de los iconos. Para que aparezcan debemos como siempre llamarlos:`<i class="fa fa-fw fa-facebook"></i>`.Todos estos los instalamos en el <a target="_blank" href="https://fgarciajulia.github.io/mi_primera_pagina/fontawesome">capitulo anterior</a>, una vez instalados lo que hacemos es usar las clases por defecto, y cambiar el icono es tan fácil como cambiar la clase.<br />
+Pueden ver qué clase le corresponde a cada icono en la <a target="_blank" href="http://fontawesome.io/icons/">página oficial</a>, por ejemplo en el que copiamos recién, la clase es `fa-facebook` y fue sacado de <a target="_blank" href="http://fontawesome.io/icon/facebook/">acá</a>.
 
 ## Añadimos algo de estilo
 

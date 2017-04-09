@@ -7,7 +7,7 @@ Para empezar vamos a necesitar un editor de texto, pueden utilizar el programa c
 
 Yo utilizo el Visual Studio Code, acá les dejo la url para instalarlo. NO confundir con el Visual Studio, este tiene un icono **azul**:
 
-[https://code.visualstudio.com/](https://code.visualstudio.com/)
+<a target="_blank" href="https://code.visualstudio.com/">https://code.visualstudio.com/</a>
 
 Para este proyecto recomiendo instalar las extensiones que figuran en la imagen, que nos van a facilitar mucho el trabajo. Para instalarlas solo vamos al icono de las extensiones, las buscamos, las instalamos y reiniciamos el programa.
 
@@ -15,7 +15,9 @@ Para este proyecto recomiendo instalar las extensiones que figuran en la imagen,
 
 ### Sublime Text.
 
-Si ya estan acostumbrados al Sublime Text no hay problema, en el transcurso del curso vamos a utilizar la funcion de auto-indentar, que en el Sublime Text esta un poquito más oculta.
+Sublime Text es otro IDE, yo recomiendo el anterior, pero si ya estan a otro acostumbrados como el Sublime Text, no hay problema, en el transcurso del curso vamos a utilizar la funcion de auto-indentar , que en el Sublime Text esta un poquito más oculta.
+
+**Por ahora no se preocupen por esto. Solo lo dejo documentado acá para cuando lo tengan que usar, si usan este IDE**, si usan Visual Code no hace falta. 
 
 Solo hay que seleccionar el texto que quieras modificar, en caso de que no lo hicieras tan solo tomara la línea en la que se encuentra el cursor en ese momento. 
 
@@ -42,7 +44,7 @@ Luego guardamos el archivo `(Ctrl+S)` o mediante el menú `File -> Save`
 Si te sentís un poco avanzado con todo esto, podes instalarte **git** desde la página oficial y usarlo desde este mismo programa, en el icono que está arriba de las extensiones. Lo recomendable es aprenderlo a usar por consola, pero este programa facilita su uso. Si no estás familiarizado con este programa, no te hagas drama que no es necesario para este tutorial. Pero sería bueno tenerlo en cuenta para el próximo proyecto, es un control de versionamiento, te ayuda (entre otras cosas) para no tener carpetas de backup desparramadas por toda la compu :D
 
 Si estás interesado no te pierdas otro de nuestros tutoriales:
-[ Introducción al funcionamiento y uso de git y github.](https://juancuiule.github.io/intro-a-git/)
+<a target="_blank" href="https://juancuiule.github.io/intro-a-git/"> Introducción al funcionamiento y uso de git y github.</a>
 
 
 <div class="Grid">

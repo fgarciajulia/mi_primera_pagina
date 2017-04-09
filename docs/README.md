@@ -11,7 +11,7 @@ En este tutorial se asume que ya se tiene conocimiento básicos sobre:
 Vamos a desarrollar desde cero una web estática del tipo landingPage (hecha en una sola pestaña larga) con la temática de portfolio, utilizando el framework de CSS3 Bootstrap para estructurar y hacer responsive el contenido.<br />
 Después de seguir el paso a paso nos debería quedar algo así:
 
-[mi_primera_pagina](http://dacu.com.ar/mi_primera_pagina/)
+<a target="_blank" href="http://dacu.com.ar/mi_primera_pagina/">Resultado final</a>
 
 
 # Contenidos
@@ -32,6 +32,6 @@ Después de seguir el paso a paso nos debería quedar algo así:
 
 ### Referencias
 
-- Bootstrap: [http://getbootstrap.com/getting-started/](http://getbootstrap.com/getting-started/) <br />
-
-- Owl Carousel 2: [https://owlcarousel2.github.io/OwlCarousel2/docs/started-welcome.html](https://owlcarousel2.github.io/OwlCarousel2/docs/started-welcome.html) <br />
+- Bootstrap: <a target="_blank" href="http://getbootstrap.com/getting-started/">http://getbootstrap.com/getting-started/</a> <br />
+- Font Awesome: <a target="_blank" href="http://fontawesome.io/get-started/">http://fontawesome.io/get-started/</a> <br />
+- Owl Carousel 2: <a target="_blank" href="https://owlcarousel2.github.io/OwlCarousel2/docs/started-welcome.html">https://owlcarousel2.github.io/OwlCarousel2/docs/started-welcome.html</a> <br />

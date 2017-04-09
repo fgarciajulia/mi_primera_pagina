@@ -115,7 +115,7 @@ y algunas cosas más...
 
 ## Media queries
 
- Por ahí apareció un **@media**, la función que cumple es decir “todo lo que está acá adentro, solo aplica **sí** la pantalla tiene" y luego viene la condición que dice **(min-width: 768px)** "un ancho minimo de 768px". para más info --> [Link](https://developer.mozilla.org/es/docs/CSS/Media_queries)<br />
+ Por ahí apareció un **@media**, la función que cumple es decir “todo lo que está acá adentro, solo aplica **sí** la pantalla tiene" y luego viene la condición que dice **(min-width: 768px)** "un ancho minimo de 768px". para más info --> <a target="_blank" href="https://developer.mozilla.org/es/docs/CSS/Media_queries">Link</a><br />
 Este va a ser nuestro segundo acercamiento a programar de forma responsive, el primero fue cuando hablamos de los tipos de columnas de bootstrap **lg** **md** **sm** **xs**.
 
 ## Selectores
@@ -132,13 +132,13 @@ No obstante, la mayoría de páginas de los sitios web se pueden diseñar utiliz
 
 ## Recomendación:
 
-Si te costó entender el código que escribimos anteriormente te recomendamos FUERTEMENTE que visites esta página donde explican muy bien este tema (ver [Selectores basicos](https://librosweb.es/libro/css/capitulo_2/selectores_basicos.html))<br />
+Si te costó entender el código que escribimos anteriormente te recomendamos FUERTEMENTE que visites esta página donde explican muy bien este tema (ver <a target="_blank" href="https://librosweb.es/libro/css/capitulo_2/selectores_basicos.html">Selectores basicos</a>)<br />
 
-Si no te costó entender lo dado hasta ahora TAMBIÉN echale un vistazo a los selectores avanzados, porque hay selectores que no suelen usarse mucho pero cuando los necesitas, son irremplazables, solo hay que saber que existen, y a la hora de necesitarlos investigaras como se escriben (ver [Selectores avanzados](https://code.tutsplus.com/es/tutorials/the-30-css-selectors-you-must-memorize--net-16048)).
+Si no te costó entender lo dado hasta ahora TAMBIÉN echale un vistazo a los selectores avanzados, porque hay selectores que no suelen usarse mucho pero cuando los necesitas, son irremplazables, solo hay que saber que existen, y a la hora de necesitarlos investigaras como se escriben (ver <a target="_blank" href="https://code.tutsplus.com/es/tutorials/the-30-css-selectors-you-must-memorize--net-16048">Selectores avanzados</a>).
 
 ## ¿Que pasa si no me quedo como esperaba?
 
-Cuando algo no anda como esperamos, nuestra primera reacción debe ser [inspeccionar el elemento](https://fgarciajulia.github.io/mi_primera_pagina/inspeccionar-elemento) apretando F12 o con botón derecho en la web entramos a la consola.
+Cuando algo no anda como esperamos, nuestra primera reacción debe ser <a target="_blank" href="https://fgarciajulia.github.io/mi_primera_pagina/inspeccionar-elemento">inspeccionar el elemento</a> apretando F12 o con botón derecho en la web entramos a la consola.
 En el capítulo siguiente vamos a profundizar más este tema.
 
 <div class="Grid">

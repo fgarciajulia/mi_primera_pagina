@@ -7,7 +7,7 @@ Bootstrap nos va a permitir crear barras de navegación muy fácilmente por medi
 
 Entremos nuevamente a codepen para ver el siguiente ejemplo:
 
-[Codepen](http://codepen.io/fgarciajulia/pen/aJpaPb)
+<a target="_blank" href="http://codepen.io/fgarciajulia/pen/aJpaPb">Codepen</a>.
 
 ### Analicemos un poco lo que dice:
 
@@ -74,11 +74,11 @@ También podemos incluir cajas de búsquedas a la barra de navegación  por medi
 
 Más ejemplos de plantillas básicas:
 
-[Ejemplos de menú](http://getbootstrap.com/getting-started/#examples)
+<a target="_blank" href="http://getbootstrap.com/getting-started/#examples">Ejemplos de menú</a>.
 
 Pueden ver toda esta información y más en la página oficial:
 
-[Documentación de navegadores](http://getbootstrap.com/components/#navbar)
+<a target="_blank" href="http://getbootstrap.com/components/#navbar">Documentación de navegadores</a>.
 
 
 <div class="Grid">

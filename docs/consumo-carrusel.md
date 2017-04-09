@@ -110,9 +110,9 @@ Finalmente a modo de ejemplo vamos a colocar el siguiente carrusel debajo del `<
 ```
 
 Descargamos estas 3 imágenes y las colocamos en la carpeta `/img:`<br />
-[imagen1](https://raw.githubusercontent.com/fgarciajulia/mi_primera_pagina/master/img/profile1.png)<br />
-[imagen2](https://raw.githubusercontent.com/fgarciajulia/mi_primera_pagina/master/img/profile2.png)<br />
-[imagen3](https://raw.githubusercontent.com/fgarciajulia/mi_primera_pagina/master/img/profile3.png)<br />
+<a target="_blank" href="https://raw.githubusercontent.com/fgarciajulia/mi_primera_pagina/master/img/profile1.png">imagen1</a>
+<a target="_blank" href="https://raw.githubusercontent.com/fgarciajulia/mi_primera_pagina/master/img/profile2.png">imagen2</a>
+<a target="_blank" href="https://raw.githubusercontent.com/fgarciajulia/mi_primera_pagina/master/img/profile3.png">imagen3</a>
 
 Por último en main.css colocamos los siguientes estilos:
 

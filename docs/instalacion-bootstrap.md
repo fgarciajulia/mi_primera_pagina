@@ -2,7 +2,7 @@
 
 Lo primero que hacemos es entrar a la página oficial e ir a get start
 
-[http://getbootstrap.com/getting-started/](http://getbootstrap.com/getting-started/)
+<a target="_blank" href="http://getbootstrap.com/getting-started/">http://getbootstrap.com/getting-started/</a>
 
 Luego descargamos la primera versión, la más simple, **NO** la que viene con Source Less, ni la que viene con Sass.
 
@@ -22,7 +22,7 @@ Esto último es solo para mantener nuestro proyecto limpio.
 
 En el siguiente paso vamos a copiar el código que figura en la página de bootstrap en el archivo index.html
 
-[http://getbootstrap.com/getting-started/#template](http://getbootstrap.com/getting-started/#template)
+<a target="_blank" href="http://getbootstrap.com/getting-started/#template">http://getbootstrap.com/getting-started/#template</a>
 
 ```
 <!DOCTYPE html>
@@ -64,16 +64,16 @@ Esta es la estructura básica del archivo HTML, no entraremos muy en detalle al 
 - El link al archivo bootstrap.css que copiamos.
 - Algunas configuraciones extras para los exploradores Internet Explorer.
 - El cuerpo de la página con un título
-- El link al archivo jquery.js (online).
-- El link al archivo bootstrap.js que copiamos.
+- El link al archivo jquery.min.js (online).
+- El link al archivo bootstrap.min.js que copiamos.
 
 ## Algunos ajustes
 
 Considero preferible trabajar (en tiempo de desarrollo) con el archivo bootstrap.css y no con el bootstrap.**min**.css , de manera que voy a mandar a llamar al otro archivo simplemente sacando el *`.*min**.<br />
-Para entender qué diferencia hay entre un archivo min ( minificado ) y uno no minificado pueden visitar esta página [Minificar CSS](https://lenguajecss.com/p/css/introduccion/minificar-css)
+Para entender qué diferencia hay entre un archivo min ( minificado ) y uno no minificado pueden visitar esta página <a target="_blank" href="https://lenguajecss.com/p/css/introduccion/minificar-css">Minificar CSS</a>.
 
 Por otro lado, personalmente sugiero NO trabajar con el **jquery** de forma online porque cuando se corta internet no se puede seguir trabajando. Para cambiar esto:
-- Entramos a: [https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js](https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js)
+- Entramos a: <a target="_blank" href="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js">https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js</a>.
 - Hacemos botón derecho --> **guardar como** y lo guardamos en la carpeta js de nuestro proyecto.
 - Una vez que está en nuestro proyecto reemplazamos la siguiente línea.
 
@@ -103,7 +103,7 @@ Para cuando terminen esto podrán "guardar todos los archivos" y abrir el archiv
 Luego hacemos botón derecho en la web y ponemos **inspeccionar elemento** o apretaremos F12.<br />
 Si en la parte de abajo de la consola no figura ningún error en rojo, entonces hemos terminado la instalación de bootstrap con éxito!<br />
 Si nos figura un error será cuestión de leerlo, los más frecuentes son que no encuentra un archivo de los que hemos vinculado, esto puede ser porque escribimos mal una ruta o porque el archivo no está donde debería.<br />
-Hay un [capítulo](https://fgarciajulia.github.io/mi_primera_pagina/inspeccionar-elemento) entero relacionado a esto.
+Hay un <a target="_blank" href="https://fgarciajulia.github.io/mi_primera_pagina/inspeccionar-elemento">capítulo</a> entero relacionado a esto.
 
 <div class="Grid">
     <a href="https://fgarciajulia.github.io/mi_primera_pagina/estructura-archivos" class="my-btn anterior">Anterior</a>

@@ -4,7 +4,7 @@ Bootstrap es un framework (librerías de CSS) que nos facilita y estandariza el 
 Está pensado para que se adapte tanto a las pantallas de equipos de escritorio como a móviles y tablets.<br />
 Bootstrap ha sido desarrollada y es mantenida por la empresa Twitter y la ha liberado como un producto Open Source.<br />
 Tiene una filosofía muy intuitiva para el maquetado de sitios web que puede ser rápidamente aprendida por desarrolladores que no vienen del mundo del diseño web.<br />
-La primera clase que podemos probar es class=”container” (esta clase muestra todo el contenido del div centrado).<br />
+La primera clase que podemos probar es 'class="container"' (esta clase muestra todo el contenido del div centrado).<br />
 
 ## Ventajas de usar Bootstrap
 
@@ -28,8 +28,7 @@ Para esto, aparece el concepto de "colapsar", éste hace referencia a lo que suc
 
 Para ver y entender cómo creamos las columnas en cada fila y cómo **colapsan** según el ancho del dispositivo podemos analizar el siguiente caso:
 
-
-[Ejemplo con codepen](https://codepen.io/fgarciajulia/pen/OpWgNK)
+<a target="_blank" href="https://codepen.io/fgarciajulia/pen/OpWgNK">Ejemplo con codepen</a>
 
 
 Si abrimos esta página en un monitor con un ancho superior a 1200 px podemos ver que se muestran 3 columnas por fila:
@@ -67,7 +66,7 @@ Como asignamos 4 unidades a cada columna las 3 columnas tienen el mismo ancho:
     </div>
 ```
 
-En nuestro [ejemplo anterior](https://codepen.io/fgarciajulia/pen/OpWgNK), probemos ahora de empezar a disminuir el ancho del navegador mediante el mouse, achicamos la ventana y veremos que cuando el ancho del navegador es menor a 1200 px colapsan las columnas de la primer fila y se muestran una debajo de otra (esto sucede en cualquier dispositivo cuyo ancho en píxeles es menor a 1200px):
+En nuestro <a target="_blank" href="https://codepen.io/fgarciajulia/pen/OpWgNK">ejemplo anterior</a>, probemos ahora de empezar a disminuir el ancho del navegador mediante el mouse, achicamos la ventana y veremos que cuando el ancho del navegador es menor a 1200 px colapsan las columnas de la primer fila y se muestran una debajo de otra (esto sucede en cualquier dispositivo cuyo ancho en píxeles es menor a 1200px):
 
 ![Imagen](https://fgarciajulia.github.io/mi_primera_pagina/img/boostrap2.jpg)
 
@@ -116,7 +115,7 @@ por ejemplo:
 ```
       <div class="col-xs-8 col-lg-4"  style="background-color:#aaa">
 ```
-Se pueden ver muchos más ejemplos en la [página oficial](http://getbootstrap.com/css/#grid-options)
+Se pueden ver muchos más ejemplos en la <a target="_blank" href="http://getbootstrap.com/css/#grid-options">página oficial</a>.
 
 <div class="Grid">
     <a href="https://fgarciajulia.github.io/mi_primera_pagina/instalacion-bootstrap" class="my-btn anterior">Anterior</a>
