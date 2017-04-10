@@ -74,8 +74,8 @@ Hay muchas cosas que quizás no lleguen a entender del todo, personalmente siemp
 Con javascript vamos a hacer todas las acciones “del lado del cliente” o frontEnd, algunas de estas acciones son las de validar que todos los campos obligatorios tengan contenido, que se envíe (mediante la función ajax) los datos del formulario al backend (archivo contact_me.php que todavía no creamos), que salgan mensajes de error cuando algo no está bien etc.
 
 Vamos a descargar los siguientes archivos:
-- [jqBootstrapValidation.js](https://fgarciajulia.github.io/mi_primera_pagina/jqBootstrapValidation.js)
-- [contact_me.js](https://fgarciajulia.github.io/mi_primera_pagina/contact_me.js)
+- <a target="_blank" href="https://fgarciajulia.github.io/mi_primera_pagina/jqBootstrapValidation.js">jqBootstrapValidation.js</a>
+- <a target="_blank" href="https://fgarciajulia.github.io/mi_primera_pagina/contact_me.js">contact_me.js</a>
  
 > Estos contienen muchas de las funciones que mencionamos. Se podría decir que en el primero definimos algunas funciones y con el segundo las consumimos.<br />
 > El segundo archivo es más amigable para el que no tiene tanta experiencia en js. En primer lugar, recolecta los datos, luego los manda al archivo`././mail/contact_me.php`por medio de la función[ajax](https://www.w3schools.com/xml/ajax_intro.asp). En segundo lugar, el servidor le devuelve una respuesta exitosa success o un error y por último según la respuesta del servidor se muestra uno u otro mensaje al usuario.
