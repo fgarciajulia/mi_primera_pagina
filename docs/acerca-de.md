@@ -40,7 +40,7 @@ Colocamos el siguiente codigo antes del formulario de contacto.
 ```
 
 <div class="Grid">
-    <a href="https://fgarciajulia.github.io/mi_primera_pagina/formulario-contacto" class="my-btn anterior">Anterior</a>
+    <a href="https://fgarciajulia.github.io/mi_primera_pagina/atajo" class="my-btn anterior">Anterior</a>
     <a href="https://fgarciajulia.github.io/mi_primera_pagina" class="my-btn home">Home</a>
-    <a href="https://fgarciajulia.github.io/mi_primera_pagina/" class="my-btn siguiente">Siguiente</a>
+    <a href="https://fgarciajulia.github.io/mi_primera_pagina/portfolio" class="my-btn siguiente">Siguiente</a>
 </div>

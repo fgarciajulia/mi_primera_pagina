@@ -24,7 +24,7 @@ Cuando ustedes reemplacen las imagenes por las de ustedes, deben tener todas las
 
 ## HTML
 
-Copiamos el siguiente código que tiene las imágenes `<img` y los iconos `<i class="fa fa-search-plus fa-3x"></i>` de los que ya hablamos en capítulos anteriores, unas cuantas clases que nos servirán después para colocar estilos, y la etiqueta <a> que nos servirá para linkiar los detalles de cada imagen. Este link tiene que coincidir con el `id` que pondremos en el capitulo siguiente.
+Copiamos el siguiente código que tiene las imágenes `<img` y los iconos `<i class="fa fa-search-plus fa-3x"></i>` de los que ya hablamos en capítulos anteriores, unas cuantas clases que nos servirán después para colocar estilos, y la etiqueta `<a>` que nos servirá para linkiar los detalles de cada imagen. Este link tiene que coincidir con el `id` que pondremos en el capitulo siguiente.
 
 
 ```
@@ -211,7 +211,7 @@ form .row:first-child .floating-label-form-group {
 
 
 <div class="Grid">
-    <a href="https://fgarciajulia.github.io/mi_primera_pagina/consumo-carrusel" class="my-btn anterior">Anterior</a>
+    <a href="https://fgarciajulia.github.io/mi_primera_pagina/acerca-de" class="my-btn anterior">Anterior</a>
     <a href="https://fgarciajulia.github.io/mi_primera_pagina" class="my-btn home">Home</a>
-    <a href="https://fgarciajulia.github.io/mi_primera_pagina/footer" class="my-btn siguiente">Siguiente</a>
+    <a href="https://fgarciajulia.github.io/mi_primera_pagina" class="my-btn siguiente">Siguiente</a>
 </div>
