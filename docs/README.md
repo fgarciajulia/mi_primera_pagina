@@ -30,6 +30,7 @@ Después de seguir el paso a paso nos debería quedar algo así:
 11.	[Formulario de contacto](https://fgarciajulia.github.io/mi_primera_pagina/formulario-contacto)
 12.	[Un atajo para descargar](https://fgarciajulia.github.io/mi_primera_pagina/atajo)
 13.	[Acerca de](https://fgarciajulia.github.io/mi_primera_pagina/acerca-de)
+13.	[Portfolio](https://fgarciajulia.github.io/mi_primera_pagina/portfolio)
 
 ### Referencias
 
