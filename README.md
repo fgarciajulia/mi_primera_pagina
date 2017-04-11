@@ -31,7 +31,7 @@ Después de seguir el paso a paso nos debería quedar algo así:
 12.	[Un atajo para descargar](https://fgarciajulia.github.io/mi_primera_pagina/atajo)
 13.	[Acerca de](https://fgarciajulia.github.io/mi_primera_pagina/acerca-de)
 14.	[Portfolio](https://fgarciajulia.github.io/mi_primera_pagina/portfolio)
-15.	[Portfolio segunda parte](https://fgarciajulia.github.io/mi_primera_pagina/portfolio2)
+15.	[Portfolio segunda parte](https://fgarciajulia.github.io/mi_primera_pagina/portfolioDos)
 
 ### Referencias
 

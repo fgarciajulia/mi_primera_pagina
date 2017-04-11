@@ -211,5 +211,5 @@ Recuerden <a target="_blank" href="https://fgarciajulia.github.io/mi_primera_pag
 <div class="Grid">
     <a href="https://fgarciajulia.github.io/mi_primera_pagina/acerca-de" class="my-btn anterior">Anterior</a>
     <a href="https://fgarciajulia.github.io/mi_primera_pagina" class="my-btn home">Home</a>
-    <a href="https://fgarciajulia.github.io/mi_primera_pagina/portfolio2" class="my-btn siguiente">Siguiente</a>
+    <a href="https://fgarciajulia.github.io/mi_primera_pagina/portfolioDos" class="my-btn siguiente">Siguiente</a>
 </div>
