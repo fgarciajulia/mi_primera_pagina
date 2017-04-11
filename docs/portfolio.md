@@ -1,30 +1,29 @@
 # 14. Portfolio
 
-## Algo que tienes que saber
+## Algo que tenés que saber
 
-Esta es una de las partes más difíciles, pero animo! que ya casi terminamos.<br />
-Si llegaste hasta acá quiere decir que sos lo suficientemente persistente como para lograr ser un profesional. Una de las cualidades más importantes de un programador es la persistencia, la superación de la frustración y el ser autodidacta.<br />
-Si superaste los 14 capítulos, (por más que te haya costado mucho) pongo mi voto de confianza en que vas a ser muy buen@ en esto. Ya va a haber tiempo para aprender más, lo importante es que ya comenzaste :D.
+Esta es una de las partes más difíciles, pero ánimo! Ya casi terminamos.<br />
+Si llegaste hasta acá quiere decir que sos lo suficientemente persistente como para lograr ser un profesional. Una de las cualidades más importantes de un programador es la perseverancia, la superación de la frustración y el ser autodidacta.<br />
+Si superaste los 14 capítulos, (por más que te haya costado mucho) pongo mi voto de confianza en que vas a ser muy bueno/a en esto. Ya va a haber tiempo para aprender más, lo importante es que ya comenzaste :D.
 
-## intro
+## Intro
 
 Para seguir extendiendo el preámbulo les voy a volver a colocar el link de cómo debe quedar el porfolio, para que se entienda mejor la explicación:<br />
 <a target="_blank" href="http://dacu.com.ar/mi_primera_pagina/">mi_primera_pagina</a><br />
-Como pudieron ver el portfolio está dividido en la parte que se ve “tipo presentación” y otra cuando haces click que es “tipo detalle”.<br />
-Entonces, en este capítulo vamos a ver cómo realizar la parte de presentación, y en el siguiente capítulo veremos cómo colocar los detalles de cada uno.<br />
+Como pudieron ver el portfolio posee 6 ítems y cada ítem tiene dos facetas. Por un lado está la imagen que presenta al producto/servicio/trabajo que uno desea mostrar y por otro lado al posar el mouse sobre la imagen aparece una lupa que nos permite la opción de hacer click y ver los detalles del ítem seleccionado. Tenemos entonces dos partes “presentación” y “detalle”.
 
 
 ## Img/porfolio
 
 Vamos a bajar las imágenes que usaremos como miniaturas y para la descripción (que es la misma).<br />
 Acá dejo la carpeta porfolio que vamos a colocar **dentro** de la carpeta img.
-Cuando ustedes reemplacen las imagenes por las de ustedes, deben tener todas las mismas dimenciones en `px` entre sí, esto es importante, pueden utilizar cualquier editor de imágenes para esto.
+Cuando ustedes reemplacen las imágenes por las de ustedes, deben tener todas las mismas dimensiones en `px` entre sí, esto es importante, pueden utilizar cualquier editor de imágenes para esto.
 
 <a target="_blank" href="https://fgarciajulia.github.io/mi_primera_pagina/portfolio.rar">portfolio.rar</a>
 
 ## HTML
 
-Copiamos el siguiente código que tiene las imágenes `<img` y los iconos `<i class="fa fa-search-plus fa-3x"></i>` de los que ya hablamos en capítulos anteriores, unas cuantas clases que nos servirán después para colocar estilos, y la etiqueta `<a>` que nos servirá para linkiar los detalles de cada imagen. Este link tiene que coincidir con el `id` que pondremos en el capitulo siguiente.
+Copiamos el siguiente código que tiene las imágenes `<img` y los iconos `<i class="fa fa-search-plus fa-3x"></i>` de los que ya hablamos en capítulos anteriores, unas cuantas clases que nos servirán después para colocar estilos, y la etiqueta `<a>` que nos servirá para linkiar los detalles de cada imagen. Este link tiene que coincidir con el `id` que pondremos en el capítulo siguiente.
 
 
 ```
@@ -203,15 +202,14 @@ En algún lado del archivo main.css pondremos los siguientes estilos, en los que
 .floating-label-form-group-with-focus label {
   color: #18BC9C;
 }
-form .row:first-child .floating-label-form-group {
-  border-top: 1px solid #eeeeee;
-}
 
 ```
+Genial! Ya tenemos la vista previa, ahora solo tenemos que colocar el contenido en el capítulo siguiente.
+Recuerden <a target="_blank" href="https://fgarciajulia.github.io/mi_primera_pagina/inspeccionar-elemento"> inspeccionar el elemento</a> si algo no les quedó como querían y de auto-indentar con el **shift+Alt+F**.
 
 
 <div class="Grid">
     <a href="https://fgarciajulia.github.io/mi_primera_pagina/acerca-de" class="my-btn anterior">Anterior</a>
     <a href="https://fgarciajulia.github.io/mi_primera_pagina" class="my-btn home">Home</a>
-    <a href="https://fgarciajulia.github.io/mi_primera_pagina" class="my-btn siguiente">Siguiente</a>
+    <a href="https://fgarciajulia.github.io/mi_primera_pagina/portfolio2" class="my-btn siguiente">Siguiente</a>
 </div>

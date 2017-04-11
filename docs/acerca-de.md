@@ -1,20 +1,21 @@
 # 13. Acerca de
 
- Esta es la sección más sencilla que tiene la web, y en donde podrían practicar de cambiar las columnas según el contenido que quieran poner, a modo de ejemplo coloqué un botón para descargar un CV, al que solo tendría que colocar la URL del PDF donde está el `#`.
 
-Notaran que esta vez no añadimos estilos, se dio la casualidad que se están reutilizando todas las clases que definimos con anterioridad.
+Esta es la sección más sencilla que tiene la web, y en donde van a poderpodrían practicar de el cambiaro de las columnas según el contenido que quieran poner, a modo de ejemplo coloqué un botón para descargar un CV, al que solo tendría que colocar la URL del PDF donde está el `#`.
+
+Notarán que esta vez no añadimos estilos, ya que por casualidad se están reutilizando todas las clases que definimos con anterioridad.
 
 
 ## HTML
 
-Colocamos el siguiente codigo antes del formulario de contacto.
+Colocamos el siguiente código antes del formulario de contacto.
 
 ```
 <section class="success" id="about">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2>About</h2>
+                    <h2>Acerca de</h2>
                     <hr class="star-light">
                 </div>
             </div>

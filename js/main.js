@@ -6,3 +6,5 @@
          autoplayTimeout: 6000,
      });
  });
+
+ 
