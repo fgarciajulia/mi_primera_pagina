@@ -15,7 +15,7 @@ Para este proyecto recomiendo instalar las extensiones que figuran en la imagen,
 
 ### Sublime Text.
 
-Sublime Text es otro IDE, yo recomiendo el anterior, pero si ya estan a otro acostumbrados como el Sublime Text, no hay problema, en el transcurso del curso vamos a utilizar la funcion de auto-indentar , que en el Sublime Text esta un poquito más oculta.
+Sublime Text es otro IDE, yo recomiendo el anterior, pero si ya estan acostumbrados a otro como el Sublime Text, no hay problema, en el transcurso del curso vamos a utilizar la funcion de auto-indentar , que en el Sublime Text esta un poquito más oculta.
 
 **Por ahora no se preocupen por esto. Solo lo dejo documentado acá para cuando lo tengan que usar, si usan este IDE**, si usan Visual Code no hace falta. 
 
