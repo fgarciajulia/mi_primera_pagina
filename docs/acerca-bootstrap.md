@@ -117,6 +117,10 @@ por ejemplo:
 ```
 Se pueden ver muchos más ejemplos en la <a target="_blank" href="http://getbootstrap.com/css/#grid-options">página oficial</a>.
 
+## IMPORTANTE:
+
+Para entender mejor todo esto deberían ver los videos de <a target="_blank" href="https://www.youtube.com/watch?v=nug1pMke-y4&index=1&list=PLhSj3UTs2_yWTKvu1Aq3xUhzIJNBZ3MFW">Falcon Master</a> que hablan de bootstrap. Sobre todo los primeros 2 que habla de la instalación y las grillas.
+
 <div class="Grid">
     <a href="https://fgarciajulia.github.io/mi_primera_pagina/instalacion-bootstrap" class="my-btn anterior">Anterior</a>
     <a href="https://fgarciajulia.github.io/mi_primera_pagina" class="my-btn home">Home</a>

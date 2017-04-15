@@ -7,7 +7,11 @@ En este tutorial se asume que ya se tiene conocimiento básicos sobre:
 - Css
 - Javascrip
 
-## ¿De qué trata el tutorial?
+## Qué es y para qué sirve
+Luego de mirar algunos tutorial sobre HTML CSS Y Javascrip, uno debería estar listo para comenzar su primera página. En este tutorial aprenderemos los primeros pasos a la programación front-end. 
+El objetivo es que a medida que vayan realizando el tutorial puedan ir personalizando la web para el objetivo personal de cada uno.
+
+## Introducción
 Vamos a desarrollar desde cero una web estática del tipo landingPage (hecha en una sola pestaña larga) con la temática de portfolio, utilizando el framework de CSS3 Bootstrap para estructurar y hacer responsive el contenido.<br />
 Después de seguir el paso a paso nos debería quedar algo así:
 
