@@ -32,6 +32,8 @@ Después de seguir el paso a paso nos debería quedar algo así:
 13.	[Acerca de](https://fgarciajulia.github.io/mi_primera_pagina/acerca-de)
 14.	[Portfolio](https://fgarciajulia.github.io/mi_primera_pagina/portfolio)
 15.	[Portfolio segunda parte](https://fgarciajulia.github.io/mi_primera_pagina/portfolioDos)
+15.	[Menú segunda parte](https://fgarciajulia.github.io/mi_primera_pagina/menu-segunda-parte)
+15.	[Menú tercera parte](https://fgarciajulia.github.io/mi_primera_pagina/menu-tercera-parte)
 
 ### Referencias
 

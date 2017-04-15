@@ -11,7 +11,7 @@ Notarán que esta vez no añadimos estilos, ya que por casualidad se están reut
 Colocamos el siguiente código antes del formulario de contacto.
 
 ```
-<section class="success" id="about">
+<section class="success" id="acerca-de">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">

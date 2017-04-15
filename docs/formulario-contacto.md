@@ -12,7 +12,7 @@ Lo importante de acá son las etiquetas`<form>``<input type="text" placeholder="
 En nuestro archivo index.html, antes de comenzar el footer vamos a copiar el siguiente código que contiene el formulario:
 
 ```
-  <section id="contact">
+  <section id="contacto">
     <div class="container">
       <div class="row">
         <div class="col-lg-12 text-center">

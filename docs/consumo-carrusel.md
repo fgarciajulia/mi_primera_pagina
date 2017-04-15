@@ -67,7 +67,7 @@ Para saber más sobre selectores con Jquery les dejo el siguiente [link](https:/
 Finalmente a modo de ejemplo vamos a colocar el siguiente carrusel debajo del `<nav>` del archivo index.html:
 
 ```
-  <div class="header">
+  <div id="home" class="header">
     <div class="owl-carousel">
       <div class="container container-header">
         <div class="row">
