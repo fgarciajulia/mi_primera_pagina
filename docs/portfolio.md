@@ -205,7 +205,7 @@ En algún lado del archivo main.css pondremos los siguientes estilos, en los que
 
 ```
 Genial! Ya tenemos la vista previa, ahora solo tenemos que colocar el contenido en el capítulo siguiente.
-Recuerden <a target="_blank" href="https://fgarciajulia.github.io/mi_primera_pagina/inspeccionar-elemento"> inspeccionar el elemento</a> si algo no les quedó como querían y de auto-indentar con el **shift+Alt+F**.
+Recuerden <a target="_blank" href="https://fgarciajulia.github.io/mi_primera_pagina/inspeccionar-elemento"> inspeccionar el elemento</a> si algo no les quedó como querían y de auto-indentar con el **Shift+Alt+F**.
 
 
 <div class="Grid">

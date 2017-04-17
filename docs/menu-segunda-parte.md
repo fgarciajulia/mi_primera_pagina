@@ -2,20 +2,19 @@
 
 ## Intro
 
-En este capítulo vamos a retomar la personalización del menú en algunos aspectos que antes nos hubiera resultado inútil. Como por ejemplo vincular los links a las distintas partes de la página que antes no teníamos y añadiremos una transición al scroll que nos muestre esa parte.
+En este capítulo vamos a retomar la personalización del menú en algunos aspectos que antes nos hubiera resultado inútil. Como por ejemplo vincular los links a las distintas partes de la página que antes no teníamos y añadir una transición al scroll que nos muestre esa parte.
 
 ## Anclas / Anchor
 
-Seguro que ya han visto este tipo de enlaces, sobre todo utilizados en esos largos artículos de wikipedia, que rápidamente te llevan a una parte concreta de un artículo dentro de la misma página. A estos enlaces se los conoce como Anclas o (Anchor en inglés) en HTML o Enlaces Internos HTML. 
-El truco está (como hicimos con el portfolio) en colocar dentro de la propiedad href de la etiqueta `a` el id del elemento al que queremos ir, anteponiendo la letra `#`
-Por ejemplo:
+Seguro que ya han visto este tipo de enlaces, sobre todo utilizados en esos largos artículos de Wikipedia, que rápidamente te llevan a una parte concreta de un artículo dentro de la misma página. A estos enlaces se los conoce como Anclas o (Anchor en inglés) en HTML o Enlaces Internos HTML.<br />
+El truco está (como hicimos con el portfolio) en colocar dentro de la propiedad href de la etiqueta a el id del elemento al que queremos ir, anteponiendo el símbolo # (hash). Por ejemplo:
 ```
 <a href=”#elemento-al-que-quiero-ir”>link</a>
 ```
 
 De manera que el link que acabamos de crear nos va a llevar a un elemento que tenga el `id="elemento-al-que-quiero-ir"`, ya solo nos falta asignarle el id al elemento de la siguiente manera:
 ```
-<div id="elemento-al-que-quiero-ir">contenido que quiero linkiar</div>
+<div id="elemento-al-que-quiero-ir">contenido que quiero linkear</div>
 ```
 
 Ya tenemos un link que nos dirige a un contenido que está en la misma página, que es lo que necesitamos para nuestra web, el siguiente paso es aplicarlo a nuestro proyecto.
