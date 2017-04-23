@@ -44,3 +44,7 @@ Después de seguir el paso a paso nos debería quedar algo así:
 - Bootstrap: <a target="_blank" href="http://getbootstrap.com/getting-started/">http://getbootstrap.com/getting-started/</a> <br />
 - Font Awesome: <a target="_blank" href="http://fontawesome.io/get-started/">http://fontawesome.io/get-started/</a> <br />
 - Owl Carousel 2: <a target="_blank" href="https://owlcarousel2.github.io/OwlCarousel2/docs/started-welcome.html">https://owlcarousel2.github.io/OwlCarousel2/docs/started-welcome.html</a> <br />
+
+### Agradecimientos
+
+Especial agradecimiento a Cecilia Trejo en la redacción y correcciones. Sin ella muchos de mis aprendices no hubieran llegado a entender nada.
