@@ -27,7 +27,7 @@
      offset: 51
  });
 
- // Cierra el menú en los celulares cuando se hace click en un link
+ // Cierre automático de menú desplegable en dispositivos pequeños 
  $('.navbar-collapse ul li a').click(function () {
      $('.navbar-toggle:visible').click();
  });

@@ -1,8 +1,8 @@
-# 14. Portfolio segunda parte
+# 15. Portfolio segunda parte
 
 ## Detalle del Portfolio
 
-Para realizar el detalle podemos usar varias librerías js, la del ejemplo viene integrada en Bootstrap, NO es la mejor librería para mostrar contenido en forma de “popup”, pero tenemos a esa librería muy fácilmente porque solo hay que colocar el html como nos indica Boostrap y listo.
+Para realizar el detalle podemos usar varias librerías js, la del ejemplo viene integrada en Bootstrap, NO es la mejor librería para mostrar contenido en forma de “popup”, pero tenemos a esa librería muy fácilmente porque solo hay que colocar el HTML como nos indica Boostrap y listo.
 
 El que quiera hacer cosas más interesantes puede investigar <a target="_blank" href="http://dimsemenov.com/plugins/magnific-popup/">Magnific popup</a> en la misma página les enseñan cómo usarlo, y a estas alturas, que añadieron tantas librerías al proyecto, no creo que les resulte difícil implementar esta otra.
 
