@@ -53,11 +53,11 @@ scrollTop: ($($anchor.attr('href')).offset().top - 50)
 ```
 
 Entonces, hasta ahora:
-1. Consumimos una animación que se la aplicamos al scroll de un ancla.
-2. Antes de poner esta animación el ancla ya andaba, es decir, por defecto cuando yo hacía click en el link ya scrolleaba, NO con una animación, pero si escrolleaba de golpe.
+1. Consumimos una animación que aplicamos al scroll de un ancla.
+2. Antes de poner esta animación el ancla ya funcionaba, es decir, por defecto cuando yo hacía click en el link ya escrolleaba, NO con una animación, pero sí escrolleaba de golpe.
 
-De manera que ahora tenemos 2 movimientos asignados al link, uno instantáneo que viene por defecto y el animado que agregamos.
-Para sacar esta "acción por defecto" o técnicamente hablando `prevenir el evento por Defecto` se utiliza la función que está en la última línea:
+De manera que ahora tenemos 2 movimientos asignados al link, uno instantáneo que viene por defecto y otro movimiento animado que es el que  agregamos.
+Para sacar esta "acción por defecto" o técnicamente hablando `prevenir el evento por defecto` se utiliza la función que está en la última línea:
 
 `event.preventDefault()`
 
