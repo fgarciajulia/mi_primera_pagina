@@ -6,7 +6,7 @@ Para realizar el detalle podemos usar varias librerías js, la del ejemplo viene
 
 El que quiera hacer cosas más interesantes puede investigar <a target="_blank" href="http://dimsemenov.com/plugins/magnific-popup/">Magnific popup</a> en la misma página les enseñan cómo usarlo, y a estas alturas, que añadieron tantas librerías al proyecto, no creo que les resulte difícil implementar esta otra.
 
-A modo de ejemplo, quería mostrarles una web personal en la que después de unas horas personalizando Magnific popup, armé una estructura con columnas dentro del popup <a target="_blank" href="http://www.dacu.com.ar">www.dacu.com.ar</a>.
+A modo de ejemplo, quería mostrarles una web personal en la que después de unas horas personalizando Magnific popup, armé una estructura con columnas dentro del popup <a target="_blank" href="http://www.buenpunto.com.ar">www.buenpunto.com.ar</a>.
 
 En principio está bien arrancar con la librería que viene integrada en Bootstrap, sobre todo porque quizás ahora tengan que preocuparse también por “qué poner dentro del porfolio” y lidiar con la edición de imágenes.
 
@@ -35,17 +35,17 @@ Esto es lo que le indica al js que debe abrir ese detalle y no otro, de manera q
               <img src="img/portfolio/cabin.png" class="img-responsive img-centered" alt="">
               <p>
                 Utilice esta área de la página para describir su proyecto. Lo que hizo, a quién, Puede colocar links a
-                <a href="www.dacu.com.ar">la web realizada</a>, etc.
+                <a href="www.buenpunto.com.ar">la web realizada</a>, etc.
               </p>
               <ul class="list-inline item-details">
                 <li>Cliente:
-                  <strong><a href="http://www.dacu.com.ar">Start Bootstrap</a></strong>
+                  <strong><a href="http://www.buenpunto.com.ar">Start Bootstrap</a></strong>
                 </li>
                 <li>Fecha:
-                  <strong><a href="http://www.dacu.com.ar">Abril 2017</a></strong>
+                  <strong><a href="http://www.buenpunto.com.ar">Abril 2017</a></strong>
                 </li>
                 <li>Servicio:
-                  <strong><a href="http://www.dacu.com.ar">Desarrollo Web</a></strong>
+                  <strong><a href="http://www.buenpunto.com.ar">Desarrollo Web</a></strong>
                 </li>
               </ul>
               <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Cerrar</button>
@@ -77,17 +77,17 @@ Luego es cuestión de repetir este código una vez por cada detalle de cada port
               <img src="img/portfolio/cabin.png" class="img-responsive img-centered" alt="">
               <p>
                 Utilice esta área de la página para describir su proyecto. Lo que hizo, a quién, Puede colocar links a
-                <a href="www.dacu.com.ar">la web realizada</a>, etc.
+                <a href="www.buenpunto.com.ar">la web realizada</a>, etc.
               </p>
               <ul class="list-inline item-details">
                 <li>Cliente:
-                  <strong><a href="http://www.dacu.com.ar">Start Bootstrap</a></strong>
+                  <strong><a href="http://www.buenpunto.com.ar">Start Bootstrap</a></strong>
                 </li>
                 <li>Fecha:
-                  <strong><a href="http://www.dacu.com.ar">Abril 2017</a></strong>
+                  <strong><a href="http://www.buenpunto.com.ar">Abril 2017</a></strong>
                 </li>
                 <li>Servicio:
-                  <strong><a href="http://www.dacu.com.ar">Desarrollo Web</a></strong>
+                  <strong><a href="http://www.buenpunto.com.ar">Desarrollo Web</a></strong>
                 </li>
               </ul>
               <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Cerrar</button>
@@ -114,17 +114,17 @@ Luego es cuestión de repetir este código una vez por cada detalle de cada port
               <img src="img/portfolio/cake.png" class="img-responsive img-centered" alt="">
               <p>
                 Utilice esta área de la página para describir su proyecto. Lo que hizo, a quién, Puede colocar links a
-                <a href="www.dacu.com.ar">la web realizada</a>, etc.
+                <a href="www.buenpunto.com.ar">la web realizada</a>, etc.
               </p>
               <ul class="list-inline item-details">
                 <li>Cliente:
-                  <strong><a href="http://www.dacu.com.ar">Start Bootstrap</a></strong>
+                  <strong><a href="http://www.buenpunto.com.ar">Start Bootstrap</a></strong>
                 </li>
                 <li>Fecha:
-                  <strong><a href="http://www.dacu.com.ar">Abril 2017</a></strong>
+                  <strong><a href="http://www.buenpunto.com.ar">Abril 2017</a></strong>
                 </li>
                 <li>Servicio:
-                  <strong><a href="http://www.dacu.com.ar">Desarrollo Web</a></strong>
+                  <strong><a href="http://www.buenpunto.com.ar">Desarrollo Web</a></strong>
                 </li>
               </ul>
               <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Cerrar</button>
@@ -151,17 +151,17 @@ Luego es cuestión de repetir este código una vez por cada detalle de cada port
               <img src="img/portfolio/circus.png" class="img-responsive img-centered" alt="">
               <p>
                 Utilice esta área de la página para describir su proyecto. Lo que hizo, a quién, Puede colocar links a
-                <a href="www.dacu.com.ar">la web realizada</a>, etc.
+                <a href="www.buenpunto.com.ar">la web realizada</a>, etc.
               </p>
               <ul class="list-inline item-details">
                 <li>Cliente:
-                  <strong><a href="http://www.dacu.com.ar">Start Bootstrap</a></strong>
+                  <strong><a href="http://www.buenpunto.com.ar">Start Bootstrap</a></strong>
                 </li>
                 <li>Fecha:
-                  <strong><a href="http://www.dacu.com.ar">Abril 2017</a></strong>
+                  <strong><a href="http://www.buenpunto.com.ar">Abril 2017</a></strong>
                 </li>
                 <li>Servicio:
-                  <strong><a href="http://www.dacu.com.ar">Desarrollo Web</a></strong>
+                  <strong><a href="http://www.buenpunto.com.ar">Desarrollo Web</a></strong>
                 </li>
               </ul>
               <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Cerrar</button>
@@ -188,17 +188,17 @@ Luego es cuestión de repetir este código una vez por cada detalle de cada port
               <img src="img/portfolio/game.png" class="img-responsive img-centered" alt="">
               <p>
                 Utilice esta área de la página para describir su proyecto. Lo que hizo, a quién, Puede colocar links a
-                <a href="www.dacu.com.ar">la web realizada</a>, etc.
+                <a href="www.buenpunto.com.ar">la web realizada</a>, etc.
               </p>
               <ul class="list-inline item-details">
                 <li>Cliente:
-                  <strong><a href="http://www.dacu.com.ar">Start Bootstrap</a></strong>
+                  <strong><a href="http://www.buenpunto.com.ar">Start Bootstrap</a></strong>
                 </li>
                 <li>Fecha:
-                  <strong><a href="http://www.dacu.com.ar">Abril 2017</a></strong>
+                  <strong><a href="http://www.buenpunto.com.ar">Abril 2017</a></strong>
                 </li>
                 <li>Servicio:
-                  <strong><a href="http://www.dacu.com.ar">Desarrollo Web</a></strong>
+                  <strong><a href="http://www.buenpunto.com.ar">Desarrollo Web</a></strong>
                 </li>
               </ul>
               <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Cerrar</button>
@@ -225,17 +225,17 @@ Luego es cuestión de repetir este código una vez por cada detalle de cada port
               <img src="img/portfolio/safe.png" class="img-responsive img-centered" alt="">
               <p>
                 Utilice esta área de la página para describir su proyecto. Lo que hizo, a quién, Puede colocar links a
-                <a href="www.dacu.com.ar">la web realizada</a>, etc.
+                <a href="www.buenpunto.com.ar">la web realizada</a>, etc.
               </p>
               <ul class="list-inline item-details">
                 <li>Cliente:
-                  <strong><a href="http://www.dacu.com.ar">Start Bootstrap</a></strong>
+                  <strong><a href="http://www.buenpunto.com.ar">Start Bootstrap</a></strong>
                 </li>
                 <li>Fecha:
-                  <strong><a href="http://www.dacu.com.ar">Abril 2017</a></strong>
+                  <strong><a href="http://www.buenpunto.com.ar">Abril 2017</a></strong>
                 </li>
                 <li>Servicio:
-                  <strong><a href="http://www.dacu.com.ar">Desarrollo Web</a></strong>
+                  <strong><a href="http://www.buenpunto.com.ar">Desarrollo Web</a></strong>
                 </li>
               </ul>
               <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Cerrar</button>
@@ -262,17 +262,17 @@ Luego es cuestión de repetir este código una vez por cada detalle de cada port
               <img src="img/portfolio/submarine.png" class="img-responsive img-centered" alt="">
               <p>
                 Utilice esta área de la página para describir su proyecto. Lo que hizo, a quién, Puede colocar links a
-                <a href="www.dacu.com.ar">la web realizada</a>, etc.
+                <a href="www.buenpunto.com.ar">la web realizada</a>, etc.
               </p>
               <ul class="list-inline item-details">
                 <li>Cliente:
-                  <strong><a href="http://www.dacu.com.ar">Start Bootstrap</a></strong>
+                  <strong><a href="http://www.buenpunto.com.ar">Start Bootstrap</a></strong>
                 </li>
                 <li>Fecha:
-                  <strong><a href="http://www.dacu.com.ar">Abril 2017</a></strong>
+                  <strong><a href="http://www.buenpunto.com.ar">Abril 2017</a></strong>
                 </li>
                 <li>Servicio:
-                  <strong><a href="http://www.dacu.com.ar">Desarrollo Web</a></strong>
+                  <strong><a href="http://www.buenpunto.com.ar">Desarrollo Web</a></strong>
                 </li>
               </ul>
               <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Cerrar</button>
