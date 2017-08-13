@@ -9,7 +9,7 @@ Si superaste los 14 capítulos, (por más que te haya costado mucho) pongo mi vo
 ## Intro
 
 Para seguir extendiendo el preámbulo les voy a volver a colocar el link de cómo debe quedar el porfolio, para que se entienda mejor la explicación:<br />
-<a target="_blank" href="http://buenpunto.com.ar/mi_primera_pagina/">mi_primera_pagina</a><br />
+<a target="_blank" href="http://dacu.com.ar/mi_primera_pagina/">mi_primera_pagina</a><br />
 Como pudieron ver el portfolio posee 6 ítems y cada ítem tiene dos facetas. Por un lado está la imagen que presenta al producto/servicio/trabajo que uno desea mostrar y por otro lado al posar el mouse sobre la imagen aparece una lupa que nos permite la opción de hacer click y ver los detalles del ítem seleccionado. Tenemos entonces dos partes “presentación” y “detalle”.
 
 

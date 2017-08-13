@@ -1,6 +1,6 @@
 # 10. Creación de un footer
 
-Como se puede ver en el <a target="_blank" href="http://buenpunto.com.ar/mi_primera_pagina/">resultado de nuestro proyecto</a> el footer tendrá 3 columnas, una para la dirección, otra para las redes sociales y otro para un dato personalizado.
+Como se puede ver en el <a target="_blank" href="http://dacu.com.ar/mi_primera_pagina/">resultado de nuestro proyecto</a> el footer tendrá 3 columnas, una para la dirección, otra para las redes sociales y otro para un dato personalizado.
 
 Vamos a copiar y pegar el siguiente código justo **antes** de comenzar a llamar los enlaces de **js**, en nuestro archivo `index.html`.
 ```
